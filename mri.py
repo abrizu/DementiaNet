@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import torch.optim as optim
 import time
 import os
+# import kaggle
 
 # ensure that we run cuda operations on gpu, otherwise training rate is very slow
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -32,6 +33,7 @@ transform = transforms.Compose([
 dataset = datasets.ImageFolder(root=directory, transform=transform) 
 class_names = dataset.classes
 
+# Split dataset into training and testing sets
 train_size = int(0.8 * len(dataset))
 test_size = len(dataset) - train_size
 train_ds, test_ds = torch.utils.data.random_split(dataset, [train_size, test_size])
