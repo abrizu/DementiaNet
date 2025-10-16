@@ -4,10 +4,10 @@ This repo consists of modifications to the CIFAR-10 CNN / Datasets to support MR
 Additionally, consists of several experiments, example classifications, test accuracy & runtime. 
 
 Download Operation:
-git clone git@github.com:abrizu/480-NN-Project-MRI.git
-python -m venv .venv
-.venv/scripts/activate
-pip freeze > requirements.txt
+* git clone git@github.com:abrizu/480-NN-Project-MRI.git
+* python -m venv .venv
+* .venv/scripts/activate
+* pip freeze > requirements.txt
 
 Data can be downloaded 2 ways:
 
