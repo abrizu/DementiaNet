@@ -7,25 +7,37 @@ import torch.optim as optim
 import time
 import os
 # import kaggle
+import numpy as np
+from torch.utils.data import WeightedRandomSampler
 
-# ensure that we run cuda operations on gpu, otherwise training rate is very slow
+
+
+# ensure that we run cuda operations on gpu, otherwise training rate will be compressed to cpu only
+
+# device configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"Using device: {device} | "
-    + f"Active: {torch.cuda.is_available()} | "
-    + f"Version: {torch.version.cuda} | "
-    + f"Count: {torch.cuda.device_count()} | "
-    + f"Name: {torch.cuda.get_device_name(0)}"
-    )
-
 directory = "./Data"
+torch.backends.cudnn.benchmark = True 
 
 # -------------------
-# Data Preprocessing
+# hyperparameters
+# -------------------
+
+transform_size = 128
+num_classes = 4
+batch_size = 64
+num_workers = os.cpu_count() 
+epoch_count = 3
+learn_rate = 1e-4
+
+
+# -------------------
+# data preprocessing
 # -------------------
 
 transform = transforms.Compose([
     transforms.Grayscale(num_output_channels=1),
-    transforms.Resize((128, 128)),
+    transforms.Resize((transform_size, transform_size)),
     transforms.ToTensor(),
     transforms.Normalize((0.5,), (0.5,))
 ])
@@ -33,14 +45,12 @@ transform = transforms.Compose([
 dataset = datasets.ImageFolder(root=directory, transform=transform) 
 class_names = dataset.classes
 
-# Split dataset into training and testing sets
-train_size = int(0.8 * len(dataset))
-test_size = len(dataset) - train_size
-train_ds, test_ds = torch.utils.data.random_split(dataset, [train_size, test_size])
-
-batch_size = 64
-train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=0)  # set to 0 for now
-test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=0)
+# split dataset into training and testing sets (80% train, 20% test)
+def split_dataset(dataset, split_ratio=0.8): # split_ratio = 0.8 for 80% train | the rest test
+    train_size = int(split_ratio * len(dataset))
+    test_size = len(dataset) - train_size
+    train_ds, test_ds = torch.utils.data.random_split(dataset, [train_size, test_size])
+    return train_ds, test_ds
 
 # Function to count images per class
 def count_images_per_class(dir, class_names):
@@ -50,36 +60,35 @@ def count_images_per_class(dir, class_names):
         counts[class_name] = len([f for f in os.listdir(class_path) if os.path.isfile(os.path.join(class_path, f))])
     return counts
 
-image_counts = count_images_per_class(directory, class_names)
-print("Image counts per class:", image_counts)
+train_ds, test_ds = split_dataset(dataset, split_ratio=0.8)
+train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True)
+test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
 
 # -------------------
 # CNN Model
 # -------------------
 
 class MRI_CNN(nn.Module):
-    def __init__(self, num_classes=4):
+    def __init__(self, num_classes=4): # 4 classes: non-demented, very mild, mild, moderate
         super().__init__()
-        self.conv1 = nn.Conv2d(1, 16, kernel_size=3, padding=1)
-        self.bn1   = nn.BatchNorm2d(16)
-        self.pool  = nn.MaxPool2d(2,2)
+        self.norm = nn.BatchNorm2d(1)
+
+        self.conv1 = nn.Conv2d(1, 8, kernel_size=3, padding=1)
+        self.pool1  = nn.MaxPool2d(2,2)
         
-        self.conv2 = nn.Conv2d(16, 32, kernel_size=3, padding=1)
-        self.bn2   = nn.BatchNorm2d(32)
-        
-        self.conv3 = nn.Conv2d(32, 64, kernel_size=3, padding=1)
-        self.bn3   = nn.BatchNorm2d(64)
+        self.conv2 = nn.Conv2d(8, 16, kernel_size=3, padding=1)    
+        self.pool2 = nn.MaxPool2d(2,2)
         
         self.relu  = nn.ReLU()
-        self.drop  = nn.Dropout(0.2)
+        self.drop  = nn.Dropout(0.3)
         
-        self.fc1   = nn.Linear(64 * 16 * 16, 128)
+        self.fc1   = nn.Linear(32 * 32 * 32, 128)
         self.fc2   = nn.Linear(128, num_classes)
 
     def forward(self, x):
-        x = self.pool(self.relu(self.bn1(self.conv1(x))))
-        x = self.pool(self.relu(self.bn2(self.conv2(x))))
-        x = self.pool(self.relu(self.bn3(self.conv3(x))))
+        x = self.norm(x)
+        x = self.pool1(self.relu(self.conv1(x))) # 128x128 -> 64x64 
+        x = self.pool2(self.relu(self.conv2(x))) # 64x64 -> 32x32
         x = x.view(x.size(0), -1)
         x = self.drop(self.relu(self.fc1(x)))
         x = self.fc2(x)
@@ -133,9 +142,20 @@ def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
 # -------------------
 
 def main():
+
+    print(f"Using device: {device} | "
+    + f"Active: {torch.cuda.is_available()} | "
+    + f"Version: {torch.version.cuda} | "
+    + f"Count: {torch.cuda.device_count()} | "
+    + f"Name: {torch.cuda.get_device_name(0)}"
+    )
+
+    image_counts = count_images_per_class(directory, class_names)
+    print("Image counts per class:", image_counts)
+
     print("\nTraining model...")
     model = MRI_CNN(num_classes=len(class_names))
-    train_model(model, train_loader, test_loader, num_epochs=3, lr=1e-4)
+    train_model(model, train_loader, test_loader, num_epochs=epoch_count, lr=learn_rate)
 
 if __name__ == "__main__":
     main()
