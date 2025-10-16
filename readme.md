@@ -1,3 +1,5 @@
+**Using a Convolutional Neural Network to scan MRI imagery and detect signs of onset dementia**
+
 Data can be downloaded 2 ways:
 
 External Download - 
