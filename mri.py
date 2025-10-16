@@ -9,7 +9,7 @@ import os
 # import kaggle
 import numpy as np
 from torch.utils.data import WeightedRandomSampler
-
+import matplotlib.pyplot as plt
 
 
 # ensure that we run cuda operations on gpu, otherwise training rate will be compressed to cpu only
@@ -24,25 +24,36 @@ torch.backends.cudnn.benchmark = True
 # -------------------
 
 transform_size = 128
-num_classes = 4
 batch_size = 64
 num_workers = os.cpu_count() 
-epoch_count = 3
+epoch_count = 2
 learn_rate = 1e-4
-
+split_rate = 0.8
+dropout_rate = 0.4
 
 # -------------------
 # data preprocessing
 # -------------------
 
-transform = transforms.Compose([
+# two different transforms for data augmentation
+
+transform_gen = transforms.Compose([ # generic transform (no augmentation)
     transforms.Grayscale(num_output_channels=1),
     transforms.Resize((transform_size, transform_size)),
     transforms.ToTensor(),
     transforms.Normalize((0.5,), (0.5,))
 ])
 
-dataset = datasets.ImageFolder(root=directory, transform=transform) 
+transform_aug = transforms.Compose([ # augmented transform
+    transforms.Grayscale(num_output_channels=1),
+    transforms.Resize((transform_size, transform_size)),
+    transforms.RandomHorizontalFlip(),
+    transforms.RandomRotation(10),
+    transforms.ToTensor(),
+    transforms.Normalize((0.5,), (0.5,))
+])
+
+dataset = datasets.ImageFolder(root=directory, transform=transform_aug) 
 class_names = dataset.classes
 
 # split dataset into training and testing sets (80% train, 20% test)
@@ -60,7 +71,17 @@ def count_images_per_class(dir, class_names):
         counts[class_name] = len([f for f in os.listdir(class_path) if os.path.isfile(os.path.join(class_path, f))])
     return counts
 
-train_ds, test_ds = split_dataset(dataset, split_ratio=0.8)
+train_ds, test_ds = split_dataset(dataset, split_ratio=split_rate)
+
+
+# function to handle class imbalance by weighting samples inversely proportional to class frequency
+image_counts = count_images_per_class(directory, class_names)
+class_counts = [image_counts[c] for c in class_names]
+class_weights = 1.0 / torch.tensor(class_counts, dtype=torch.float)
+sample_weights = [class_weights[label] for _, label in train_ds]
+
+sampler = WeightedRandomSampler(sample_weights, num_samples=len(train_ds), replacement=True)
+
 train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True)
 test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
 
@@ -71,21 +92,32 @@ test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_wor
 class MRI_CNN(nn.Module):
     def __init__(self, num_classes=4): # 4 classes: non-demented, very mild, mild, moderate
         super().__init__()
-        self.norm = nn.BatchNorm2d(1)
 
-        self.conv1 = nn.Conv2d(1, 8, kernel_size=3, padding=1)
+        # CNN architecture:
+        # batch norm -> conv1 -> relu -> maxpool -> conv2 -> relu -> maxpool -> flatten -> fc1 -> relu -> dropout -> fc2
+        # 2 conv layers with increasing channels (16, 32) and 2 fully connected layers (128, num_classes)
+        # allows for detailed feature extraction while minimizing overfitting via overly complex models 
+
+        # by making a simpler model, reduce training time and improve generalization on unseen data preventing any sort of memorization
+
+        self.norm = nn.BatchNorm2d(1) # batchnorm normalizes input data
+        self.conv1 = nn.Conv2d(1, 16, kernel_size=3, padding=1) # conv1 = 1 input channel (grayscale), 16 output channels, 3x3 kernel
         self.pool1  = nn.MaxPool2d(2,2)
-        
-        self.conv2 = nn.Conv2d(8, 16, kernel_size=3, padding=1)    
+        self.conv2 = nn.Conv2d(16, 32, kernel_size=3, padding=1) # conv2 = 16 input channels, 32 output channels, 3x3 kernel
         self.pool2 = nn.MaxPool2d(2,2)
-        
-        self.relu  = nn.ReLU()
-        self.drop  = nn.Dropout(0.3)
+
+        self.relu  = nn.ReLU() # relu 
+        self.drop  = nn.Dropout(dropout_rate)
         
         self.fc1   = nn.Linear(32 * 32 * 32, 128)
         self.fc2   = nn.Linear(128, num_classes)
 
     def forward(self, x):
+        # input batch normalization: stabilizes learning process
+        # conv layers with relu and maxpool: progressively reduce spatial dimensions while increasing feature depth
+        # flatten into single vector
+        # dropout and fully connected layers for classification
+
         x = self.norm(x)
         x = self.pool1(self.relu(self.conv1(x))) # 128x128 -> 64x64 
         x = self.pool2(self.relu(self.conv2(x))) # 64x64 -> 32x32
@@ -98,21 +130,21 @@ class MRI_CNN(nn.Module):
 # Training Function
 # -------------------
 def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
-    model.to(device)
-    criterion = nn.CrossEntropyLoss()
+    model.to(device) # move model to gpu if available
+    criterion = nn.CrossEntropyLoss() # use a cross entropy loss function for multi-class classification
     optimizer = optim.Adam(model.parameters(), lr=lr)
 
-    start_time = time.time()
+    start_time = time.time() # track training time
     for epoch in range(num_epochs):
         model.train()
         running_loss = 0.0
         
         for images, labels in train_loader:
             images, labels = images.to(device), labels.to(device)
+            optimizer.zero_grad() 
+            outputs = model(images) # forward pass
 
-            optimizer.zero_grad()
-            outputs = model(images)
-            loss = criterion(outputs, labels)
+            loss = criterion(outputs, labels) # backpropagation
             loss.backward()
             optimizer.step()
             
@@ -121,7 +153,8 @@ def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
         avg_loss = running_loss / len(train_loader)
         print(f"Epoch [{epoch+1}/{num_epochs}] - Loss: {avg_loss:.4f}")
 
-    print(f"\nTraining finished in {(time.time()-start_time)/60:.2f} minutes")
+    end_time = time.time()
+    print(f"\nTraining finished in {(end_time-start_time)/60:.2f} minutes")
 
     model.eval()
     all_preds, all_labels = [], []
@@ -134,8 +167,36 @@ def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
             all_labels.extend(labels.cpu().tolist())
 
     acc = accuracy_score(all_labels, all_preds)
-    print(f"\nTest Accuracy: {acc * 100:.2f}%")
+    print(f"Test Accuracy: {acc * 100:.2f}%")
     print("\nClassification Report:\n", classification_report(all_labels, all_preds, target_names=class_names))
+
+
+# -------------------
+# visualization
+# -------------------
+
+# generated by chatgpt
+
+def plot_sample_predictions(model, data_loader, class_names, num_images=6):
+    model.eval()  # set model to evaluation mode
+
+    images, labels = next(iter(data_loader))
+    images, labels = images.to(device), labels.to(device)
+
+    # Get predictions
+    with torch.no_grad():
+        outputs = model(images)
+        _, preds = torch.max(outputs, 1)
+
+    plt.figure(figsize=(12, 6))
+    for i in range(num_images):
+        plt.subplot(2, 3, i+1)
+        img = images[i].cpu().squeeze(0) * 0.5 + 0.5  # unnormalize
+        plt.imshow(img, cmap='gray')
+        plt.title(f"Pred: {class_names[preds[i].item()]}\nTrue: {class_names[labels[i].item()]}")
+        plt.axis('off')
+    plt.tight_layout()
+    plt.show()
 
 # -------------------
 # Run
@@ -143,6 +204,7 @@ def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
 
 def main():
 
+    # print device info, ensure that gpu is primary processor
     print(f"Using device: {device} | "
     + f"Active: {torch.cuda.is_available()} | "
     + f"Version: {torch.version.cuda} | "
@@ -150,12 +212,14 @@ def main():
     + f"Name: {torch.cuda.get_device_name(0)}"
     )
 
-    image_counts = count_images_per_class(directory, class_names)
     print("Image counts per class:", image_counts)
 
     print("\nTraining model...")
     model = MRI_CNN(num_classes=len(class_names))
     train_model(model, train_loader, test_loader, num_epochs=epoch_count, lr=learn_rate)
+
+    # visualize some predictions from test set checking overall acc
+    plot_sample_predictions(model, test_loader, class_names, num_images=6)
 
 if __name__ == "__main__":
     main()
