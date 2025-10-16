@@ -26,7 +26,7 @@ torch.backends.cudnn.benchmark = True
 transform_size = 128
 batch_size = 64
 num_workers = os.cpu_count() 
-epoch_count = 2
+epoch_count = 5
 learn_rate = 1e-4
 split_rate = 0.8
 dropout_rate = 0.4
@@ -72,15 +72,6 @@ def count_images_per_class(dir, class_names):
     return counts
 
 train_ds, test_ds = split_dataset(dataset, split_ratio=split_rate)
-
-
-# function to handle class imbalance by weighting samples inversely proportional to class frequency
-image_counts = count_images_per_class(directory, class_names)
-class_counts = [image_counts[c] for c in class_names]
-class_weights = 1.0 / torch.tensor(class_counts, dtype=torch.float)
-sample_weights = [class_weights[label] for _, label in train_ds]
-
-sampler = WeightedRandomSampler(sample_weights, num_samples=len(train_ds), replacement=True)
 
 train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True)
 test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
@@ -212,6 +203,7 @@ def main():
     + f"Name: {torch.cuda.get_device_name(0)}"
     )
 
+    image_counts = count_images_per_class(directory, class_names)
     print("Image counts per class:", image_counts)
 
     print("\nTraining model...")
