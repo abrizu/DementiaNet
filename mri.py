@@ -25,7 +25,7 @@ torch.backends.cudnn.benchmark = True
 
 transform_size = 128
 batch_size = 64
-num_workers = os.cpu_count() 
+num_workers = os.cpu_count() or 0
 epoch_count = 5
 learn_rate = 1e-4
 split_rate = 0.8
@@ -189,6 +189,7 @@ def plot_sample_predictions(model, data_loader, class_names, num_images=6):
     plt.tight_layout()
     plt.show()
 
+
 # -------------------
 # Run
 # -------------------
@@ -198,7 +199,7 @@ def main():
     # print device info, ensure that gpu is primary processor
     print(f"Using device: {device} | "
     + f"Active: {torch.cuda.is_available()} | "
-    + f"Version: {torch.version.cuda} | "
+    + f"Version: {torch.__version__} | "
     + f"Count: {torch.cuda.device_count()} | "
     + f"Name: {torch.cuda.get_device_name(0)}"
     )
