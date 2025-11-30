@@ -84,7 +84,7 @@ class LoadData:
 
         return X_train, X_test, y_train, y_test
     
-class DementiaRiskLSTM(nn.Module):
+class DementiaRiskLSTM(nn.Module): # here, we initialize an lstm 
     def __init__(self, input_size, hidden_size, num_layers=1):
         super(DementiaRiskLSTM, self).__init__()
         self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True)
