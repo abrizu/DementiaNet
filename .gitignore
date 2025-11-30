@@ -1,2 +1,6 @@
 .venv
 Data
+%USERPROFILE%
+BMData
+biomarker_est.py
+.vscode

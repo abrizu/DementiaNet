@@ -25,7 +25,7 @@ torch.backends.cudnn.benchmark = True
 
 transform_size = 128
 batch_size = 64
-num_workers = os.cpu_count() 
+num_workers = os.cpu_count() or 0
 epoch_count = 5
 learn_rate = 1e-4
 split_rate = 0.8
@@ -73,9 +73,23 @@ def count_images_per_class(dir, class_names):
 
 train_ds, test_ds = split_dataset(dataset, split_ratio=split_rate)
 
-train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True)
-test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
+# Extract labels
+targets = [dataset.targets[i] for i in train_ds.indices]
 
+# Compute class weights
+class_sample_counts = np.bincount(targets)
+class_weights = 1.0 / torch.sqrt(torch.tensor(class_sample_counts, dtype=torch.float).to(device))
+class_weights = class_weights / class_weights.sum()
+
+# Compute per-sample weights for the sampler
+samples_weight = [class_weights[label].item() for label in targets]
+
+# Create sampler
+sampler = WeightedRandomSampler(weights=samples_weight, num_samples=len(samples_weight), replacement=True)
+
+# DataLoaders
+train_loader = DataLoader(train_ds, batch_size=batch_size, sampler=sampler, num_workers=num_workers, pin_memory=True)
+test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
 # -------------------
 # CNN Model
 # -------------------
@@ -122,7 +136,7 @@ class MRI_CNN(nn.Module):
 # -------------------
 def train_model(model, train_loader, test_loader, num_epochs=10, lr=1e-4):
     model.to(device) # move model to gpu if available
-    criterion = nn.CrossEntropyLoss() # use a cross entropy loss function for multi-class classification
+    criterion = nn.CrossEntropyLoss(weight=None) # use a cross entropy loss function for multi-class classification
     optimizer = optim.Adam(model.parameters(), lr=lr)
 
     start_time = time.time() # track training time
@@ -189,6 +203,7 @@ def plot_sample_predictions(model, data_loader, class_names, num_images=6):
     plt.tight_layout()
     plt.show()
 
+
 # -------------------
 # Run
 # -------------------
@@ -198,7 +213,7 @@ def main():
     # print device info, ensure that gpu is primary processor
     print(f"Using device: {device} | "
     + f"Active: {torch.cuda.is_available()} | "
-    + f"Version: {torch.version.cuda} | "
+    + f"Version: {torch.__version__} | "
     + f"Count: {torch.cuda.device_count()} | "
     + f"Name: {torch.cuda.get_device_name(0)}"
     )
