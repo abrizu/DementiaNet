@@ -1,16 +1,16 @@
+import time
+import os
+
 import torch
 import torch.nn as nn
+import torch.optim as optim
+import numpy as np
+import matplotlib.pyplot as plt
+
+from torch.utils.data import WeightedRandomSampler
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
 from sklearn.metrics import accuracy_score, classification_report
-import torch.optim as optim
-import time
-import os
-# import kaggle
-import numpy as np
-from torch.utils.data import WeightedRandomSampler
-import matplotlib.pyplot as plt
-
 
 # ensure that we run cuda operations on gpu, otherwise training rate will be compressed to cpu only
 
@@ -37,7 +37,7 @@ dropout_rate = 0.4
 
 # two different transforms for data augmentation
 
-transform_gen = transforms.Compose([ # generic transform (no augmentation)
+transform_gen = transforms.Compose([ # generic transform (no augmentation) (not used)
     transforms.Grayscale(num_output_channels=1),
     transforms.Resize((transform_size, transform_size)),
     transforms.ToTensor(),
@@ -63,7 +63,6 @@ def split_dataset(dataset, split_ratio=0.8): # split_ratio = 0.8 for 80% train |
     train_ds, test_ds = torch.utils.data.random_split(dataset, [train_size, test_size])
     return train_ds, test_ds
 
-# Function to count images per class
 def count_images_per_class(dir, class_names):
     counts = {}
     for class_name in class_names:
@@ -73,23 +72,23 @@ def count_images_per_class(dir, class_names):
 
 train_ds, test_ds = split_dataset(dataset, split_ratio=split_rate)
 
-# Extract labels
+# extract labels
 targets = [dataset.targets[i] for i in train_ds.indices]
 
-# Compute class weights
+# smaller classes (moderate dementia) get higher weights so the model pays more attention to them
 class_sample_counts = np.bincount(targets)
 class_weights = 1.0 / torch.sqrt(torch.tensor(class_sample_counts, dtype=torch.float).to(device))
 class_weights = class_weights / class_weights.sum()
 
-# Compute per-sample weights for the sampler
+# compute per-sample weights for the sampler
+# weighted random sampler: higher weights get more attention, and are sampled more often
 samples_weight = [class_weights[label].item() for label in targets]
-
-# Create sampler
 sampler = WeightedRandomSampler(weights=samples_weight, num_samples=len(samples_weight), replacement=True)
 
-# DataLoaders
+# DataLoaders (we add weighted sample so the model can see added weights to minority classes)
 train_loader = DataLoader(train_ds, batch_size=batch_size, sampler=sampler, num_workers=num_workers, pin_memory=True)
 test_loader  = DataLoader(test_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
+
 # -------------------
 # CNN Model
 # -------------------
@@ -205,7 +204,7 @@ def plot_sample_predictions(model, data_loader, class_names, num_images=6):
 
 
 # -------------------
-# Run
+# run
 # -------------------
 
 def main():

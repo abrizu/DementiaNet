@@ -3,4 +3,6 @@ Data
 %USERPROFILE%
 BMData
 biomarker_est.py
+new-predictor.py
+lstm.py
 .vscode
