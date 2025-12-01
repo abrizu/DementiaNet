@@ -2,7 +2,6 @@
 Data
 %USERPROFILE%
 BMData
-biomarker_est.py
-new-predictor.py
+deprecated
 lstm.py
 .vscode
