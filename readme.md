@@ -1,10 +1,10 @@
-**Predicting the Onset of Dementia Using Neural Networks: A Deep Learning Approach to Neuroimaging Analysis**
+# Predicting the Onset of Dementia Using Neural Networks: A Deep Learning Approach to Neuroimaging Analysis
 
 Research Report: (insert link)
 Abstract: (insert)
 
 
-# This repo features multiple CNN structures preprocessed and trained to classify multiple indications of Alzheimer's Disease / Dementia.
+**This repo features multiple CNN structures preprocessed and trained to classify multiple indications of Alzheimer's Disease / Dementia.**
 
 MRI: Classifies multiple stages of Dementia into ['Non Demented', 'Very Mild', 'Mild', 'Moderate'].
 Biomarkers: Classifies patient records into ['No Dementia', 'Dementia'] based on corresponding preexisting health conditions.
@@ -19,7 +19,7 @@ python -m venv .venv
 pip freeze > requirements.txt
 ```
 
-# Due to size, data for both models must be downloaded separately.
+**Due to size, data for both models must be downloaded separately.**
 
 External Download - 
 - Download the MRI Dataset from https://www.kaggle.com/datasets/ninadaithal/imagesoasis.
