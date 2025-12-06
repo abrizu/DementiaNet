@@ -1,7 +1,17 @@
 .venv
-Data
-%USERPROFILE%
-BMData
-deprecated
-lstm.py
 .vscode
+%USERPROFILE%
+key.env
+
+# MRIData
+Mild Dementia
+Moderate Dementia
+Non Demented
+Very mild Dementia
+
+# BMData
+patient_records.csv
+
+# SPData
+
+deprecated
