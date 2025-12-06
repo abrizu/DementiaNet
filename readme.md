@@ -26,9 +26,11 @@ External Download -
 - Download the Biomarkers Dataset from https://www.kaggle.com/datasets/snmahsa/comprehensive-health-and-brain-imaging-dataset.
 - Download the Speech Dataset from (insert link).
 
-Extract the MRI Dataset into ./MRIData folder. 
-Extract the Biomarker Dataset into ./BMData folder.
-Extract the Speech Dataset into ./SPData folder.
+- Extract the MRI Dataset into ./MRIData folder. 
+- Extract the Biomarker Dataset into ./BMData folder.
+- Extract the Speech Dataset into ./SPData folder.
 
 To Execute:
-py functions/(mri.py, biomarkers.py, (insert)) 
+```
+py functions/(mri.py, biomarkers.py, (insert))
+```
