@@ -22,9 +22,9 @@ pip freeze > requirements.txt
 # Due to size, data for both models must be downloaded separately.
 
 External Download - 
-Download the MRI Dataset from https://www.kaggle.com/datasets/ninadaithal/imagesoasis.
-Download the Biomarkers Dataset from https://www.kaggle.com/datasets/snmahsa/comprehensive-health-and-brain-imaging-dataset.
-Download the Speech Dataset from (insert link).
+- Download the MRI Dataset from https://www.kaggle.com/datasets/ninadaithal/imagesoasis.
+- Download the Biomarkers Dataset from https://www.kaggle.com/datasets/snmahsa/comprehensive-health-and-brain-imaging-dataset.
+- Download the Speech Dataset from (insert link).
 
 Extract the MRI Dataset into ./MRIData folder. 
 Extract the Biomarker Dataset into ./BMData folder.
