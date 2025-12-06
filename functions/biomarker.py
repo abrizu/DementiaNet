@@ -178,7 +178,7 @@ def predictor(model, scaler, column_order, patient_dict):
         return prob
  
 def main():
-    records = "../BMData/patient_records.csv"
+    records = "../Data/BMData/patient_records.csv"
 
     print("\nLoading data: ")
     x, y, scaler, col_order = cleaning(records)
