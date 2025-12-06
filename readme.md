@@ -6,9 +6,9 @@ Abstract: (insert)
 
 **This repo features multiple CNN structures preprocessed and trained to classify multiple indications of Alzheimer's Disease / Dementia.**
 
-MRI: Classifies multiple stages of Dementia into ['Non Demented', 'Very Mild', 'Mild', 'Moderate'].
-Biomarkers: Classifies patient records into ['No Dementia', 'Dementia'] based on corresponding preexisting health conditions.
-Speech: (insert)
+- MRI: Classifies multiple stages of Dementia into ['Non Demented', 'Very Mild', 'Mild', 'Moderate'].
+- Biomarkers: Classifies patient records into ['No Dementia', 'Dementia'] based on corresponding preexisting health conditions.
+- Speech: (insert)
 
 
 Download Operation:
