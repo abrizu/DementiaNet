@@ -4,6 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 import torch
 import time
+import json
 
 from torch.utils.data import Dataset, DataLoader
 from sklearn.preprocessing import MinMaxScaler
@@ -57,17 +58,18 @@ def cleaning(path):
         "Y": 1, "N": 0
     }
 
+    # drop fazekas_cat col
     df = df.replace(yes_no_map)
     df = df.infer_objects(copy=False)
-
     df = df.drop(columns=["study_Name", "Fazekas_cat"], errors="ignore")
 
     for col in df.columns:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
+    # drop dementia col
     df = df.fillna(0)
-    y = df["dementia"].astype(int).values
-    X = df.drop(columns=["dementia"]) # remove dementia until classification
+    y = df["dementia_all"].astype(np.float32).values
+    X = df.drop(columns=["dementia_all", "dementia"], errors="ignore")  # drop both labels
 
     scaler = MinMaxScaler()
     X_scaled = scaler.fit_transform(X)
@@ -90,6 +92,8 @@ class DementiaNN(nn.Module): # simple predictor cnn model (3 fc layers, relu, si
 
     def __init__(self, input_size, hidden_size_2=32, hidden_size_1=16, output_layer=1):
         super(DementiaNN, self).__init__()
+
+        # nn.Sequential self init easily
         self.net = nn.Sequential( # multilayer cnn
             nn.Linear(input_size, hidden_size_2),
             nn.ReLU(),
@@ -106,9 +110,9 @@ class DementiaNN(nn.Module): # simple predictor cnn model (3 fc layers, relu, si
     def forward(self, x):
         return self.net(x)
     
-def train_model(model, train_loader, num_epochs=25, lr=0.001):
+def train_model(model, train_loader, num_epochs=25, lr=0.001, pos_weight=None):
     model.to(device)
-    loss_fn = nn.BCELoss() # bin cross-entropy loss, for binary classifications
+    loss_fn = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
     optimizer = optim.Adam(model.parameters(), lr=lr)
 
     start_time = time.time()
@@ -123,7 +127,7 @@ def train_model(model, train_loader, num_epochs=25, lr=0.001):
 
             loss = loss_fn(outputs, labels)
             loss.backward()
-            optimizer.step() # backpropogation 
+            optimizer.step()
 
             total_loss += loss.item()
 
@@ -133,15 +137,15 @@ def train_model(model, train_loader, num_epochs=25, lr=0.001):
     end_time = time.time()
     print(f"\nTraining time: {(end_time-start_time)/60:.2f} minutes")
 
-def evaluate_model(model, test_loader):
+def evaluate_model(model, test_loader): # evaluate on test set
     model.eval()
     all_preds, all_labels = [], []
 
     with torch.no_grad():
         for images, labels in test_loader:
             images, labels = images.to(device), labels.to(device)
-            outputs = model(images).squeeze()
 
+            outputs = model(images).squeeze()
             preds = (outputs >= 0.5).long()
 
             all_preds.extend(preds.cpu().tolist())
@@ -153,6 +157,14 @@ def evaluate_model(model, test_loader):
     class_names = ["No Dementia", "Dementia"]
     print("\nClassification Report:\n", classification_report(all_labels, all_preds, target_names=class_names))
 
+def risk_category(prob): # predictions of risk category based on probability
+    if prob < 0.33:
+        return "Low Risk"
+    elif prob < 0.66:
+        return "Moderate Risk"
+    else:
+        return "High Risk"
+    
 def predictor(model, scaler, column_order, patient_dict):
     df_new = pd.DataFrame([patient_dict])
 
@@ -163,67 +175,80 @@ def predictor(model, scaler, column_order, patient_dict):
         if col in df_new.columns:
             df_new[col] = df_new[col].apply(normalize)
 
-        if "fazekas_cat" not in df_new.columns:
-            df_new["fazekas_cat"] = 0
+    if "fazekas_cat" not in df_new.columns:
+        df_new["fazekas_cat"] = 0
 
-        df_new = df_new[column_order]
-        df_new_scaled = scaler.transform(df_new)
+    df_new = df_new[column_order]
+    df_new_scaled = scaler.transform(df_new)
 
-        x = torch.tensor(df_new_scaled, dtype=torch.float32)
-        x = x.to(next(model.parameters()).device)
+    x = torch.tensor(df_new_scaled, dtype=torch.float32)
+    x = x.to(next(model.parameters()).device)
+    
+    with torch.no_grad():
+        prob = model(x).item()
+
+    risk_label = risk_category(prob)
+
+
+    #debug
+    # print("Columns expected:", column_order)
+    # print("Columns in new patient:", df_new.columns.tolist())
+
+    return prob, risk_label
+
+def main(iterations, runs):
+        records = "./Data/BMData/patient_records.csv"
+
+        print("\nLoading data: ")
+        X, y, scaler, col_order = cleaning(records)
+        y = np.array(y, dtype=int)
+
+        # train/test split
+        x_train, x_test, y_train, y_test = train_test_split(
+            X, y, test_size=0.2, random_state=42, stratify=y
+        )
+
+        train_ds = PatientDataset(x_train, y_train)
+        test_ds = PatientDataset(x_test, y_test)
+
+        # BCEWithLogitsLoss -
+        class_counts = np.bincount(y_train.astype(int))
+        pos_weight = torch.tensor([class_counts[0] / class_counts[1]], dtype=torch.float32).to(device)
+
+        # Create DataLoaders ---
+        train_load = DataLoader(train_ds, batch_size=8, shuffle=True)
+        test_load = DataLoader(test_ds, batch_size=8, shuffle=False)
+
+        model = DementiaNN(input_size=x_train.shape[1])
         
-        with torch.no_grad():
-            prob = model(x).item()
+        print("\nTraining model... \n")
+        train_model(model, train_load, num_epochs=25, lr=0.0005, pos_weight=pos_weight)
+        evaluate_model(model, test_load)
 
-        return prob
- 
-def main():
-    records = "../Data/BMData/patient_records.csv"
+        with open("./research/example_patients.json", "r") as f:
+            patients = json.load(f)
 
-    print("\nLoading data: ")
-    x, y, scaler, col_order = cleaning(records)
+        # run multiple iterations
+        with open("./research/biomarker_example_label.txt", "a") as f:
+            for iteration in range(1, iterations + 1):
+                f.write(f"------ [ ITERATION {iteration} ] ------\n\n")
+                print(f"------ [ ITERATION {iteration} ] ------\n")
+                
+                for run in range(1, runs + 1):
+                    f.write(f"Run {run}:\n")
+                    print(f"Run {run}:")
+                    
+                    for patient in patients:
+                        model.train()
+                        risk_prob, risk_label = predictor(model, scaler, col_order, patient)
+                        result = f"{patient.get('name', 'Unknown')} -> Predicted Dementia Risk: {risk_prob:.3f} ({risk_label})"
+                        print(result)
+                        f.write(result + "\n")
+                    
+                    f.write("\n")
+                    print()
+                f.write("\n")
 
-    x_train, x_test, y_train, y_test = train_test_split(
-        x, y, test_size=0.2, random_state=42
-    ) 
-
-    train_ds = PatientDataset(x_train, y_train)
-    test_ds = PatientDataset(x_test, y_test)
-
-    train_load = DataLoader(train_ds, batch_size=8, shuffle=True)
-    test_load = DataLoader(test_ds, batch_size=8, shuffle=True)
-
-    model = DementiaNN(input_size=x_train.shape[1])
-
-    # outputs
-    print("\nTraining model... \n")
-    train_model(model, train_load, num_epochs=25, lr=0.001)
-    evaluate_model(model, test_load)
-
-    # add an example patient later. right now returns 0.00 risk (incorrect)
-
-    # example_patient = {
-    # "age": 70,
-    # "gender": "male",
-    # "diabetes": 1,
-    # "hypertension": 1,
-    # "hypercholesterolemia": 1,
-    # "smoking": "Quit",
-    # "EF": 0.62,
-    # "PS": 0.22,
-    # "Global": 0.74,
-    # "Lacunes_Presence": 1,
-    # "CMB_Presence": 0,
-    # "Fazekas": 3,
-    # "lac_count": 5,
-    # "SVD Simple Score": 2,
-    # "SVD Amended Score": 5,
-    # "dementia_all": 0
-    # }
-
-    # print("\nPredicting dementia risk for example patient...")
-    # risk = predictor(model, scaler, col_order, example_patient)
-    # print(f"Predicted Dementia Risk: {risk:.3f}")
 
 if __name__ == "__main__":
-    main()
+    main(iterations=10, runs=3) # run 10 iterations for averaging purposes, 3 runs per

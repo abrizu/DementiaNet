@@ -1,0 +1,26 @@
+--- TEST 1 BEST RESULTS ---
+
+Iteration 1, Run 1:
+Low Risk Patient -> Predicted Dementia Risk: 0.008 (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 0.355 (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 0.857 (High Risk)
+
+Iteration 1, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.002 (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 0.334 (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 0.944 (High Risk)
+
+Iteration 3, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.002 (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 0.489 (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 0.849 (High Risk)
+
+Iteration 6, Run 2:
+Low Risk Patient -> Predicted Dementia Risk: 0.007 (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 0.463 (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 0.932 (High Risk)
+
+Iteration 7, Run 2:
+Low Risk Patient -> Predicted Dementia Risk: 0.001 (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 0.543 (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 0.835 (High Risk)
