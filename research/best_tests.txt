@@ -24,3 +24,43 @@ Iteration 7, Run 2:
 Low Risk Patient -> Predicted Dementia Risk: 0.001 (Low Risk)
 Moderate Risk Patient -> Predicted Dementia Risk: 0.543 (Moderate Risk)
 High Risk Patient -> Predicted Dementia Risk: 0.835 (High Risk)
+
+
+
+
+New Set: 
+
+Iteration 1, Run 2:
+Low Risk Patient -> Predicted Dementia Risk: 0.43% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 51.50% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 75.98% (High Risk)
+
+Iteration 5, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.47% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 57.71% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 87.20% (High Risk)
+
+Iteration 6, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.09% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 49.64% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 94.03% (High Risk)
+
+Iteration 7, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.06% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 35.54% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 88.05% (High Risk)
+
+Iteration 8, Run 3:
+Low Risk Patient -> Predicted Dementia Risk: 0.09% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 41.83% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 97.32% (High Risk)
+
+Iteration 9, Run 2:
+Low Risk Patient -> Predicted Dementia Risk: 0.23% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 35.68% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 98.85% (High Risk)
+
+Iteration 10, Run 2:
+Low Risk Patient -> Predicted Dementia Risk: 0.01% (Low Risk)
+Moderate Risk Patient -> Predicted Dementia Risk: 43.39% (Moderate Risk)
+High Risk Patient -> Predicted Dementia Risk: 91.41% (High Risk)
