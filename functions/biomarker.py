@@ -88,10 +88,10 @@ class PatientDataset(Dataset):
     def __getitem__(self, idx):
         return self.x[idx], self.y[idx]
     
-class DementiaNN(nn.Module): # simple predictor cnn model (3 fc layers, relu, sigmoid)
+class Biomarker_NN(nn.Module): # simple predictor cnn model (3 fc layers, relu, sigmoid)
 
     def __init__(self, input_size, hidden_size_2=32, hidden_size_1=16, output_layer=1):
-        super(DementiaNN, self).__init__()
+        super(Biomarker_NN, self).__init__()
 
         # nn.Sequential self init easily
         self.net = nn.Sequential( # multilayer cnn
@@ -196,8 +196,11 @@ def predictor(model, scaler, column_order, patient_dict):
 
     return prob, risk_label
 
+# def retrieve_records()
+
 def main(iterations, runs):
         records = "./Data/BMData/patient_records.csv"
+        # json_records = 
 
         print("\nLoading data: ")
         X, y, scaler, col_order = cleaning(records)
@@ -219,12 +222,14 @@ def main(iterations, runs):
         train_load = DataLoader(train_ds, batch_size=8, shuffle=True)
         test_load = DataLoader(test_ds, batch_size=8, shuffle=False)
 
-        model = DementiaNN(input_size=x_train.shape[1])
+        model = Biomarker_NN(input_size=x_train.shape[1])
         
         print("\nTraining model... \n")
         train_model(model, train_load, num_epochs=25, lr=0.0005, pos_weight=pos_weight)
         evaluate_model(model, test_load)
 
+
+        # FOR MULTIMODAL THIS SHOULD CHANGE TO LOAD PATIENT SAMPLE DATA INSTEAD
         with open("./research/example_patients.json", "r") as f:
             patients = json.load(f)
 
@@ -241,7 +246,7 @@ def main(iterations, runs):
                     for patient in patients:
                         model.train()
                         risk_prob, risk_label = predictor(model, scaler, col_order, patient)
-                        result = f"{patient.get('name', 'Unknown')} -> Predicted Dementia Risk: {risk_prob:.3f} ({risk_label})"
+                        result = f"{patient.get('name', 'Unknown')} -> Predicted Dementia Risk: {risk_prob * 100:.2f}% ({risk_label})"
                         print(result)
                         f.write(result + "\n")
                     

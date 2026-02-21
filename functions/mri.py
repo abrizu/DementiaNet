@@ -16,7 +16,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 # device configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-directory = "../Data/MRIData" # Default to lm dataset
+directory = "./Data/MRIData" # Default to lm dataset
 torch.backends.cudnn.benchmark = True 
 
 # -------------------
