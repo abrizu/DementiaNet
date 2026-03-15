@@ -2,6 +2,7 @@
 .vscode
 %USERPROFILE%
 key.env
+kaggle.json
 
 # MRIData
 Mild Dementia
@@ -14,4 +15,7 @@ patient_records.csv
 
 # SPData
 
-deprecated
+deprecatedfunctions/__pycache__/
+checkpoints/*.pt
+checkpoints/mri_training_session.pt
+checkpoints/biomarker_training_session.pt

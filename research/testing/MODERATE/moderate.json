@@ -1,0 +1,19 @@
+    {
+        "name": "High Risk Patient",
+        "age": 70,
+        "gender": "male",
+        "diabetes": "yes",
+        "hypertension": "yes",
+        "hypercholesterolemia": "yes",
+        "smoking": "Quit",
+        "EF": 0.62,
+        "PS": 0.22,
+        "Global": 0.74,
+        "Lacunes_Presence": "yes",
+        "CMB_Presence": "no",
+        "Fazekas": 2,
+        "fazekas_cat": 3,
+        "lac_count": 5,
+        "SVD Simple Score": 2,
+        "SVD Amended Score": 5
+    }

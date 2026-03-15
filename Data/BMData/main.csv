@@ -1,0 +1,1831 @@
+age,gender,dementia,dementia_all,diabetes,hypertension,hypercholesterolemia,smoking,EF,PS,Global,Lacunes_Presence,CMB_Presence,Fazekas,fazekas_cat,study_Name,SVD Simple Score,SVD Amended Score,lac_count
+54,male,no,no,no,No,Yes,Quit,0.62,0.22,0.746666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,5,3 to 5
+58,female,no,no,no,No,Yes,None,0.29,0.05,0.196666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+58,male,no,no,no,Yes,Yes,Smoker,0.51,0.21,0.626666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,male,no,no,no,No,No,Smoker,-0.327057688,0.184664871,-0.2606745,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,female,no,no,no,Yes,Yes,Quit,0.51,1.3,0.763333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+76,male,no,no,yes,Yes,No,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+55,female,no,no,no,No,No,Smoker,0.41,0.96,0.09,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+80,male,,yes,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,no,no,no,Yes,No,None,0.62,0.59,0.97,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+69,male,no,no,yes,Yes,Yes,Quit,0.6,-0.69,0.03,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+53,female,no,no,no,No,Yes,None,0.1,0.52,0.136666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+50,male,no,no,no,Yes,Yes,None,0.04,1.36,1.01,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+74,male,no,no,no,Yes,Yes,Quit,-2.046666667,-1.421090367,-1.14032711,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+72,female,no,no,no,Yes,Yes,None,0.56,-0.06,-0.096666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,male,no,no,no,Yes,Yes,Quit,0.24,-0.54,0.06,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,male,no,no,no,Yes,Yes,Quit,1.343552289,0.714863519,0.67546189,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,Yes,Yes,Quit,0.313319382,0.647370473,0.696214076,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,no,Yes,Yes,None,0.42,0.78,0.636666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+69,male,no,no,no,Yes,No,Smoker,0.53,-0.28,0.216666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+58,female,no,no,no,No,Yes,None,-1.035806463,-0.456281177,-0.755357201,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+77,female,no,no,no,Yes,Yes,None,0.3,-0.86,-0.193333333,Present,Present,3,2 to 3,ASPS Family Study,3,5,3 to 5
+68,male,no,no,no,No,No,None,0.52,0.51,0.463333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+59,male,no,no,no,No,Yes,Smoker,-0.21,-0.62,-0.216666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,yes,Yes,Yes,Smoker,-1.27,-0.9,-0.81,Present,Present,3,2 to 3,ASPS Family Study,3,6,>5
+56,male,no,no,no,Yes,Yes,None,0.7,0.26,0.353333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+60,male,no,no,no,No,No,Smoker,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+65,female,no,no,no,Yes,Yes,,0.09,-0.31,-0.22,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Quit,0.41,0.47,0.556666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,No,None,-0.086858495,-0.722934542,-0.019187916,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+65,female,no,no,no,No,Yes,None,0.63,-0.38,0.27,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+66,male,no,no,no,Yes,Yes,Quit,-0.533333333,-0.91,-0.248,Present,Present,3,2 to 3,Neuroimaging Study,2,6,3 to 5
+61,male,no,no,no,No,Yes,Smoker,0.3,-0.17,0.076666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,Yes,Quit,-0.76,-1.41,-0.845,Absent,Absent,3,2 to 3,Neuroimaging Study,1,3,Zero
+63,male,no,no,no,No,Yes,None,0.46,0.39,0.216666667,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+74,male,no,no,yes,Yes,Yes,Quit,0.68,-0.42,0.18,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+66,male,yes,yes,yes,Yes,Yes,Smoker,-2.093333333,-2.453333333,-1.664,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+78,female,no,no,yes,Yes,Yes,Quit,-0.87,0.35,-0.386666667,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+60,female,no,no,no,No,Yes,None,-0.15,0.07,-0.3,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,Yes,Yes,None,0.24,0.05,0.363333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+64,female,no,no,no,Yes,No,None,-0.05,-0.13,-0.306666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+80,male,no,no,no,No,Yes,Quit,0.5,,,Present,Absent,3,2 to 3,Geriatric Population Study,,,>5
+61,female,no,no,no,Yes,Yes,Quit,0.36,0.87,0.723333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,Quit,-0.076666667,-0.043333333,0.298,Absent,Present,3,2 to 3,Neuroimaging Study,2,4,Zero
+68,male,no,no,no,Yes,Yes,Quit,-0.12717771,-0.718875891,-0.572032103,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+62,female,no,no,no,No,Yes,None,0.21,1.39,0.616666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+61,male,no,no,no,Yes,No,None,-0.64,0.75,0.376666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+62,male,no,no,yes,No,Yes,None,0.83,0.43,1.293333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+61,male,no,no,no,Yes,Yes,Quit,1.052776824,0.657562947,1.029068227,Present,Absent,1,0 to 1,Cerebrovascular Study,1,3,3 to 5
+61,male,no,no,no,Yes,Yes,Quit,0.55,0.83,0.24,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,Yes,Smoker,-1,1.49,0.273333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,No,Yes,Quit,-0.659210449,-0.247093431,-0.514563152,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+67,female,no,no,no,No,Yes,None,0.52,0.36,0.523333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,male,yes,yes,no,Yes,Yes,Quit,-0.5,-0.85,-0.416666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+46,female,no,no,no,Yes,No,Smoker,0.49,0.24,0.16,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+43,female,no,no,no,Yes,Yes,None,-0.723333333,-0.893333333,-0.565,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+54,female,no,no,no,No,Yes,None,,,,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+72,female,no,no,no,Yes,No,Quit,-0.75419648,-1.809180685,-1.38923125,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,female,no,no,no,Yes,Yes,None,0.56,1.21,1.186666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+81,male,no,no,no,Yes,No,Quit,0.883333333,-0.806666667,0.469,Present,Present,2,2 to 3,Neuroimaging Study,2,5,3 to 5
+65,male,no,no,no,No,Yes,Quit,0.65,-0.3,0.15,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+79,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+56,male,no,no,no,Yes,Yes,None,0.821216171,-0.059457169,0.290168196,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+58,female,no,no,no,No,No,None,1.918255907,1.200470263,1.376016732,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,male,no,no,no,No,No,Quit,0.64,1.02,0.663333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,no,Yes,Yes,Quit,0.67,1.03,1.29,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+76,female,,yes,no,Yes,No,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+81,female,no,no,no,Yes,Yes,None,-0.38,-0.65,-0.693333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+74,female,no,no,no,No,Yes,None,-0.15,-0.81,-0.616666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,female,no,no,no,Yes,Yes,None,0.514566157,-0.289745201,0.335819953,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,No,None,-0.16,-0.45,-0.323333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,0.36,-0.6,-0.226666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,female,no,no,no,Yes,Yes,None,0.08,0.26,0.18,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,None,0.62,0.44,0.106666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,yes,Yes,Yes,Quit,-0.03,1.66,0.826666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+65,male,no,no,yes,No,Yes,None,0.28,0.67,0.453333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+90,female,no,no,no,Yes,Yes,None,-0.993333333,-0.903333333,-0.302,Present,Present,2,2 to 3,Neuroimaging Study,3,5,3 to 5
+62,male,no,no,no,Yes,Yes,None,-0.03,-1.113333333,-0.547,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+69,female,no,no,no,Yes,Yes,None,0.2,0.54,0.73,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+52,female,no,no,no,No,No,Quit,0.92,1.04,1.166666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,female,no,no,yes,No,Yes,None,0.35,0.35,0.343333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,-1.63,0.02,-0.733333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,,yes,no,Yes,Yes,None,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+55,male,no,no,no,No,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,male,no,no,no,Yes,Yes,Quit,-0.01,0.226666667,0.325,Present,Absent,2,2 to 3,Neuroimaging Study,1,4,3 to 5
+39,female,no,no,no,Yes,No,None,0.68,1.45,0.726666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+56,male,no,no,no,No,No,Quit,0.99,0.8,1.676666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+65,female,no,no,no,Yes,Yes,None,-0.37,0.4,0.12,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.36,-0.46,-0.003333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,male,no,no,no,Yes,Yes,Smoker,-0.59,-1.12,-0.943333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+57,male,no,no,yes,Yes,Yes,Quit,1.250902777,0.914805814,1.236899615,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,female,no,no,no,No,No,None,0.21,0.76,0.176666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,male,no,no,no,No,Yes,Smoker,-0.69,0.72,-0.466666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,None,0.57,0.1,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,Yes,None,0.33,0.34,0.153333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,yes,Yes,No,None,-1.135188551,-1.238214475,-1.143641699,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+70,male,no,no,no,Yes,Yes,Quit,0.38,0.55,0.343333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,yes,Yes,No,Quit,-0.341554882,-0.106335589,-0.120302765,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+61,female,no,no,no,Yes,Yes,Quit,-0.045614133,0.235715556,0.277054112,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,Yes,Yes,None,,,,Absent,Present,2,2 to 3,Cerebrovascular Study,2,3,Zero
+61,female,no,no,no,No,Yes,None,0.67,1.02,0.85,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,None,-0.86,-0.1,-0.496666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+67,female,no,no,no,No,Yes,None,0.71,0.26,0.636666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,No,Yes,Quit,0.11,-0.48,-0.293333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,Quit,-0.28,-1.27,-0.093333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+83,male,no,no,no,Yes,No,Smoker,-0.23,-0.71,-0.636666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+68,male,yes,yes,yes,Yes,Yes,None,-0.19,-0.5,-0.146666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+52,female,no,no,no,No,Yes,None,0.66,0.26,0.543333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,No,No,None,0.39,0.16,0.216666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,female,no,no,no,No,No,Quit,-0.13506259,0.634061968,0.3432898,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,male,no,no,no,Yes,Yes,Smoker,-0.609524971,-1.431225043,-1.27444881,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,Yes,No,Smoker,-1.26,-0.9,-0.993333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,None,0.71,0.86,0.43,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,Yes,Quit,0.75,1.11,0.576666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+61,female,no,no,no,No,No,None,-0.77,0,-0.86,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,No,None,-0.29,-0.25,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,Yes,None,-1.09,-0.26,-0.773333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,female,no,no,no,No,Yes,None,-1.22,-0.41,-0.97,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,0.18,-0.12,0.12,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,male,no,no,no,No,No,None,-0.41,-1.26,-0.983333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,male,no,no,no,No,Yes,None,0.56,0.1,0.586666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,no,no,no,No,Yes,None,-1.44,0.85,-0.47,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+59,male,no,no,no,Yes,Yes,Quit,-1.13,0.6,-0.246666667,Absent,Present,0,0 to 1,Geriatric Population Study,1,1,Zero
+57,male,no,no,no,No,No,Quit,1.289487,0.989262098,0.665821214,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+56,female,no,no,no,No,Yes,None,0.64,0.67,0.496666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,No,Yes,None,0.2,0.51,0.093333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+65,male,no,no,no,Yes,Yes,None,-0.01,0.75,0,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,male,no,no,no,Yes,No,Smoker,0.08,0.32,-0.036666667,Absent,Absent,3,2 to 3,Geriatric Population Study,1,2,Zero
+67,female,no,no,yes,Yes,Yes,None,-0.24,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,Quit,-0.17,-0.87,-0.516666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,Yes,None,0.25,-0.04,-0.076666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+84,female,no,no,no,Yes,Yes,None,-1.753333333,-2.098265533,-1.52247966,Present,Absent,3,2 to 3,Neuroimaging Study,2,5,3 to 5
+70,male,no,no,no,Yes,Yes,None,-0.96,-0.9,-0.766666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+72,male,no,no,no,No,No,Smoker,-0.226344484,-1.203364449,-0.486675406,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,female,no,no,no,Yes,Yes,Quit,0.25,1.43,0.49,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,Yes,None,-1.61,0.1,-1.006666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,yes,yes,no,Yes,Yes,Quit,-1.166844395,-0.918371085,-0.730719512,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+76,female,no,no,no,Yes,Yes,None,0,0.06,-0.343333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+67,male,no,no,no,No,Yes,Quit,0.3,-0.91,-0.016666667,Present,Absent,0,0 to 1,Geriatric Population Study,,,1 to 2
+78,male,no,no,no,Yes,Yes,Quit,-0.92,-1.493333333,-0.924,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+59,male,no,no,no,Yes,Yes,Smoker,-0.989985698,-1.396065076,-0.903179651,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+76,female,no,no,no,Yes,No,None,0.35,-0.63,-0.416666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,None,-0.34,0.03,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,Yes,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+62,male,no,no,no,No,Yes,Quit,0.32,0.94,0.07,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,,yes,no,Yes,Yes,None,0.497571459,-0.985101597,-0.145027147,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,no,no,yes,Yes,No,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+76,female,no,no,no,Yes,Yes,None,0.53,0.13,-0.003333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,Smoker,-0.75,-0.47,-0.653333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,male,no,no,no,No,Yes,Quit,0.2,0.56,0.516666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+71,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+59,male,no,no,no,No,No,Quit,0.637853513,0.403545931,0.352178618,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,male,no,no,no,Yes,Yes,Smoker,-0.43,-0.25,-0.523333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+54,female,no,no,no,Yes,Yes,Quit,0.035985363,-0.530433772,-0.205026996,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+54,female,no,no,no,No,Yes,None,0.77,0.89,0.333333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,No,Yes,Quit,0.54,-0.68,0.266666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,male,no,no,yes,Yes,No,Quit,0.788098477,0.694197799,0.443855986,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+83,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,female,no,no,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+48,female,no,no,no,No,Yes,Smoker,1.11,1.59,1.493333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+79,male,no,no,no,Yes,Yes,Quit,-1.44,-2.68,-1.586666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,female,no,no,no,Yes,Yes,None,0,0.15,-0.376666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,Quit,0.17,-1.11,-0.18,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,female,no,no,no,No,No,None,0.183694114,-0.287945144,-0.263058186,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+71,female,no,no,yes,Yes,Yes,None,-0.11,-1.02,-0.606666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+57,male,no,no,no,Yes,Yes,Quit,0.93,0.27,0.706,Present,Absent,2,2 to 3,Neuroimaging Study,1,5,>5
+73,male,no,no,yes,Yes,Yes,Quit,-0.966524635,-0.942005094,-0.759454634,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,female,no,no,no,Yes,Yes,Smoker,-0.61,-0.77,-0.84,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+73,female,no,no,no,Yes,Yes,None,-0.64,-0.22,-0.37,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,male,no,no,yes,Yes,Yes,None,0.39,-1.08,-0.503333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+62,female,no,no,no,No,Yes,None,,1,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+59,female,no,no,yes,Yes,Yes,None,0.61,0.52,0.13,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,male,no,no,no,Yes,Yes,Quit,0.069476048,0.240480387,0.770603256,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,no,no,no,No,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,female,no,no,yes,No,Yes,None,0.3,-1.02,-0.196666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+72,female,no,no,yes,Yes,Yes,Quit,-2.02,-2.284336333,-1.5413009,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+69,male,no,no,yes,No,Yes,Quit,-0.2,,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+58,female,no,no,no,No,Yes,None,0.69,1.55,1.313333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+75,female,no,no,no,Yes,Yes,None,-1.1,-0.47,-0.693333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,no,no,no,Yes,Yes,None,-0.79,-0.25,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,-0.74,-0.23,-0.17,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+73,male,no,no,no,Yes,Yes,None,0.21,0.47,0.03,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,No,Quit,0.53,0.54,0.263333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,male,no,no,no,Yes,Yes,Quit,0.12,-0.41,-0.09,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+73,male,no,no,no,Yes,No,Quit,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+53,female,no,no,no,Yes,No,Quit,0.453562205,1.341133376,1.017179145,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,male,,yes,no,Yes,No,Quit,-1.229846747,-1.101075938,-0.965289164,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,No,Yes,None,0.26,-0.24,-0.266666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,Yes,None,-0.31,-0.4,-0.51,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,female,no,no,yes,Yes,Yes,None,-0.67,-0.98,-0.72,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+72,male,yes,yes,yes,Yes,No,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+69,female,no,no,no,Yes,No,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+75,female,no,no,no,Yes,Yes,Quit,-0.07,,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+76,male,no,no,no,Yes,Yes,Quit,0.17,-1.22,-0.343333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,male,no,no,yes,Yes,Yes,Quit,0.63,0.48,0.53,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,Yes,None,0.01,0.08,-0.343333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Smoker,-0.353333333,-1.22,-0.68,Present,Absent,2,2 to 3,Neuroimaging Study,1,3,1 to 2
+74,male,no,no,no,Yes,Yes,Quit,-0.72,-0.12,-0.2,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,male,no,no,no,No,Yes,Quit,0.6,0.04,0.526666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.49,-0.37,0.05,Present,Absent,3,2 to 3,Geriatric Population Study,,,1 to 2
+61,female,no,no,no,No,Yes,Quit,0.51,-0.05,0.57,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,yes,yes,no,Yes,Yes,Quit,0.17,0.25,0.38,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,Yes,No,Smoker,0.18,1.2,0.503333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,male,no,no,no,Yes,Yes,None,0.8,-0.15,0.376666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+55,male,no,no,no,No,Yes,None,,1.31,,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+82,female,yes,yes,no,Yes,Yes,None,-0.46,-0.39,-0.376666667,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+61,male,no,no,no,No,Yes,Quit,0.68,0.15,0.386666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,0.24,1.03,0.483333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+51,male,no,no,no,No,Yes,Quit,0.28,1.74,0.68,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+60,male,no,no,no,Yes,Yes,Quit,-0.300456805,1.026587287,0.523088062,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+56,female,no,no,no,Yes,No,None,-0.29,-0.21,-0.336666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,Quit,-0.82,-0.84,-0.75,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+66,male,,yes,no,Yes,Yes,Quit,-0.873235723,0.135702425,-0.323024526,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,Yes,Yes,Quit,-1.325248905,-1.182945243,-1.07687809,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,male,no,no,no,Yes,Yes,None,-1.47,-0.08,-0.636666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+57,female,no,no,no,Yes,No,None,-0.45726362,-0.307938665,-0.956310259,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,Yes,None,0.71,0.75,0.7,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,No,Quit,0.19,0.54,0.55,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+80,male,no,no,no,Yes,Yes,None,-2.33,,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+74,female,no,no,no,Yes,Yes,None,-0.8,-1.65,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,No,Quit,-0.458024566,-0.54432121,-0.452256674,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+77,female,no,no,no,Yes,Yes,None,-0.67,-1.83,-1.156666667,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+68,female,no,no,no,No,Yes,None,0.14,-0.1,0.07,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,yes,Yes,Yes,,-1.13,-1.08,-0.906666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+67,male,no,no,no,Yes,Yes,None,0.303333333,0.684637667,0.3913913,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+67,female,no,no,no,Yes,Yes,None,-0.3,-0.62,-0.53,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+71,male,no,no,no,Yes,Yes,Quit,-0.07,-1.55,-0.89,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+69,female,no,no,no,Yes,No,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+62,male,no,no,no,Yes,No,None,0.48,0.51,0.796666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,No,Yes,None,0.52,-0.01,0.023333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,Yes,Yes,None,-0.1,-0.02,-0.26,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+73,female,no,no,no,No,Yes,Quit,-0.38,-0.04,-0.386666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,male,no,no,no,Yes,Yes,Quit,-1.062757552,-0.751766356,-0.85741637,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,no,No,No,None,0.47,-0.1,0.233333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,Quit,0.11,0.19,0.06,Present,Absent,3,2 to 3,ASPS Family Study,2,3,1 to 2
+65,male,no,no,no,No,No,None,-0.42,-1.94,-1.033333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,male,no,no,yes,No,Yes,Quit,0.39,-0.29,-0.24,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,Yes,Quit,0.76,0.93,1.26,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,No,Yes,None,-0.46,0.57,-0.223333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,male,no,no,no,Yes,Yes,Quit,0.7,0.37,0.44,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+71,female,no,no,no,Yes,Yes,None,-2.031768551,-1.397968911,-1.317026126,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+74,male,no,no,no,Yes,Yes,Quit,1.316666667,-0.7,0.318,Absent,Absent,3,2 to 3,Neuroimaging Study,1,3,Zero
+54,male,no,no,no,Yes,Yes,Quit,0.7,1.03,0.84,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,Yes,Quit,-0.04,,,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+62,male,no,no,no,No,No,Quit,0.749823729,0.394411917,0.124622837,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,No,Yes,None,0.28,-0.61,-0.05,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+49,male,no,no,no,Yes,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,female,no,no,no,Yes,Yes,None,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+73,female,no,no,no,Yes,Yes,None,-0.74,-2.46,-0.753333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+62,female,no,no,no,Yes,Yes,None,0.32,0.54,0.32,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+72,male,,yes,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,male,no,no,no,Yes,Yes,Quit,0.68,0.77,1.333333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,Yes,Quit,0.07,0.63,0.293333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,female,no,no,no,No,Yes,Smoker,0.23,-1.55,-0.636666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,male,no,no,no,No,Yes,Quit,0.75,1.19,1.14,Absent,Present,0,0 to 1,Geriatric Population Study,1,1,Zero
+70,female,no,no,no,Yes,Yes,None,0,,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,female,no,no,no,Yes,Yes,Quit,0.07,-1.68,-0.453333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,No,No,Quit,0.32,0.44,0.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,yes,Yes,Yes,Quit,-0.67,-0.82,-1,Present,Absent,3,2 to 3,Geriatric Population Study,,,3 to 5
+65,male,no,no,no,Yes,No,None,0.65,0.22,0.22,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+70,male,no,no,no,Yes,No,Quit,-0.21,0.57,-0.13,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,male,no,no,no,Yes,Yes,Quit,0.55,0.5,0.486666667,Absent,Present,0,0 to 1,Geriatric Population Study,1,1,Zero
+58,male,no,no,no,No,Yes,Quit,-1.24,0.38,-0.56,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Smoker,-0.163333333,-0.783333333,-0.125,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+59,female,no,no,yes,No,Yes,None,0.697156639,1.45030491,1.16514235,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,no,no,yes,No,Yes,Quit,-0.24,,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+56,male,no,no,no,No,Yes,Smoker,-2.15,0.06,-0.69,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+73,male,no,no,no,Yes,Yes,None,0.07,-0.29,-0.243333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+71,male,yes,yes,no,No,Yes,Smoker,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+64,female,no,no,no,Yes,Yes,None,-0.98,-0.67,,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,No,None,-0.851354399,0.258993733,0.092049852,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+71,male,no,no,no,No,Yes,Quit,-1.26,-2.17,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+66,female,no,no,yes,No,Yes,None,0.64,0.11,0.283333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+80,female,no,no,yes,Yes,Yes,None,-0.34,-0.09,-0.42,Present,Absent,2,2 to 3,ASPS Family Study,2,3,3 to 5
+78,female,no,no,no,Yes,Yes,None,0.57,-1.33,-0.176666667,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+53,male,no,no,no,No,Yes,None,0.59,0.81,0.653333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,No,None,0.452985373,0.443758717,0.322926865,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+57,female,no,no,no,Yes,Yes,None,0.48,1.22,0.396666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,No,Yes,Smoker,-0.66,1.25,0.28,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+74,female,no,no,no,Yes,Yes,None,-0.76,-0.53,-0.473333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,No,Yes,None,-1.35,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,male,no,no,no,Yes,Yes,Quit,0.36,0.01,0.056666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,No,None,-0.35,-0.21,-0.05,Present,Absent,2,2 to 3,ASPS Family Study,2,3,3 to 5
+74,female,,yes,no,No,No,None,-0.127388028,0.448854099,0.152974421,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,Yes,Quit,0.39,1.23,1.313333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,Quit,-0.65,0.333101267,-0.32906962,Present,Present,2,2 to 3,Neuroimaging Study,2,4,1 to 2
+63,male,no,no,no,No,No,Smoker,0.57,0.18,0.563333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,Yes,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+72,male,no,no,no,Yes,Yes,Quit,-1.153333333,-0.647318333,-0.6501955,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+77,male,no,no,yes,Yes,No,Quit,-0.2,,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+73,female,yes,yes,no,No,Yes,Smoker,-2.183333333,-2.069802967,-1.67594089,Present,Absent,3,2 to 3,Neuroimaging Study,2,6,>5
+73,female,no,no,yes,Yes,Yes,Smoker,-1.3,-1.63,-1.07,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+57,male,no,no,no,Yes,No,None,0.34,,,Absent,Present,3,2 to 3,Geriatric Population Study,2,3,Zero
+49,female,no,no,no,No,Yes,Quit,0.72,1.33,1.11,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,male,no,no,no,No,Yes,Quit,0.41,0.85,0.53,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,None,0.9,-0.18,0.17,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,female,no,no,no,No,No,Smoker,0.156830241,0.613236684,0.154019906,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,male,no,no,no,No,Yes,Quit,0.63,-0.08,0.93,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,male,no,no,no,Yes,Yes,Quit,-1.3,-0.88,-0.923333333,Present,Absent,2,2 to 3,Geriatric Population Study,2,2,1 to 2
+63,female,no,no,no,No,Yes,Smoker,-1.28,0.32,-0.79,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,male,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,no,no,no,Yes,Yes,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,No,No,None,0.18,0.13,-0.103333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+74,female,no,no,no,Yes,Yes,None,-1.26,-1.18,-1.19,Present,Absent,3,2 to 3,ASPS Family Study,2,3,1 to 2
+85,female,no,no,no,Yes,Yes,Quit,0.31,-0.88,-0.233333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+77,female,no,no,no,No,Yes,None,-0.61,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,None,0.01,0.13,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,None,-0.74,-1.4,-0.9,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,male,no,no,yes,Yes,Yes,Quit,-0.486666667,-0.623333333,-0.283,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+76,male,no,no,yes,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+63,female,no,no,no,Yes,Yes,None,-1.18,-0.19,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,Yes,Yes,None,0.37,0.42,0.22,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+52,female,no,no,no,No,Yes,Quit,0.500184263,-0.822869968,-0.324032766,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,male,no,no,no,Yes,Yes,Quit,-1.56,-2.07,-1.226666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+55,female,no,no,no,Yes,Yes,None,-1.27,1.14,0.066666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,No,Yes,None,-0.22,0.41,-0.03,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,Quit,0.13,0.99,0.23,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+55,female,no,no,no,Yes,Yes,Quit,1.2236378,2.07035595,1.127723113,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+74,female,no,no,no,Yes,Yes,Quit,-0.08,-1.11,-0.03,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,No,Yes,Smoker,-0.26,-0.13,-0.25,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,No,None,0.379816046,0.656859044,0.389736056,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,female,no,no,no,No,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+48,male,no,no,yes,Yes,Yes,Smoker,0.39,0.11,0.366666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,female,no,no,no,Yes,Yes,None,0.25,-0.47,-0.22,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,0.5,-0.36,0.35,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+69,male,no,no,no,Yes,No,Quit,-1.183435132,-0.360114577,-0.246750196,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+67,male,no,no,no,No,Yes,None,-0.793009963,0.024207598,-0.135560912,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+68,male,no,no,no,Yes,Yes,Quit,0.16,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,male,yes,yes,yes,Yes,Yes,None,-1.92,-2.16,-1.725,Present,Present,2,2 to 3,Neuroimaging Study,2,6,>5
+66,male,no,no,no,No,No,Smoker,0.184853612,-0.165064151,-0.029557392,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,male,no,no,no,Yes,Yes,Smoker,-0.296666667,-0.213333333,-0.473,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+81,male,no,no,yes,Yes,Yes,None,-2.195,-2.209944967,-1.576648322,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+79,female,no,no,no,Yes,Yes,None,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+73,male,no,no,no,Yes,Yes,Quit,-0.87,-1.47,-1.13,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,Yes,None,-1.373333333,-0.806666667,-0.678,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+69,female,no,no,yes,Yes,Yes,None,-0.31,-0.89,-0.623333333,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+63,female,no,no,no,No,No,Quit,0.21,-0.01,0.16,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,male,no,no,yes,Yes,Yes,None,-1.26,,,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+61,male,no,no,no,Yes,Yes,None,0.26,1.7,0.916666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,-1.06,-0.14,-0.57,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+58,female,no,no,no,Yes,Yes,None,0.39,0.45,0.923333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+84,male,no,no,yes,Yes,Yes,None,-1.566666667,-1.273333333,-1.044,Absent,Present,1,0 to 1,Neuroimaging Study,1,2,Zero
+66,female,no,no,no,No,Yes,Smoker,0.4,-1.27,0.023333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,Yes,None,0.01,-0.96,-0.683333333,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+56,female,no,no,no,Yes,Yes,Smoker,-0.18,0.29,-0.21,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,Quit,0.34,0.31,0.45,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+60,male,no,no,no,No,No,None,-1.1,0.82,-0.206666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,no,Yes,Yes,None,-1.75,-0.13,-0.9,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,no,No,Yes,Smoker,0.68,0.39,0.416666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+79,male,no,no,no,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+59,female,no,no,no,Yes,Yes,Quit,0.141286884,0.542727355,0.28960737,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+58,male,no,no,no,Yes,Yes,Quit,0.24,1.07,0.47,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+44,male,no,no,no,No,Yes,Quit,0.9,1.76,1.056666667,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+69,female,no,no,no,Yes,Yes,None,0.52,0.58,0.173333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,male,no,no,no,Yes,Yes,None,-0.38,-0.26,-0.18,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+59,male,no,no,no,No,Yes,Quit,0.049468274,-0.121472218,0.187601523,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,female,no,no,no,No,No,Quit,-0.36,0.85,0.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+59,female,no,no,no,No,Yes,None,0.68,-0.36,0.42,Absent,Absent,3,2 to 3,Geriatric Population Study,1,2,Zero
+65,female,no,no,no,Yes,Yes,None,0.55,0.63,0.553333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,None,-0.09,-0.81,-0.75,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.29,-0.78,-0.36,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+54,male,no,no,no,Yes,No,Quit,0.64,1.29,1.52,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,Yes,None,0.3,0.58,0.2,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,Yes,Yes,Quit,0.39,1.68,1.056666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+47,female,no,no,no,Yes,No,None,0.7,0.68,0.856666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+61,female,no,no,no,No,Yes,None,-0.3,-0.04,0.123333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,No,No,None,,-0.89,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+55,male,no,no,no,No,Yes,Quit,0.6,0.7,0.62,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+62,male,no,no,no,Yes,Yes,Quit,0.31,-0.19,-0.36,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+74,male,no,no,yes,Yes,Yes,Quit,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+53,male,no,no,no,Yes,No,None,-1.50819078,-0.63213365,-0.903668696,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+75,male,no,no,no,Yes,No,Quit,-0.22,-0.32,-0.116666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+72,male,no,no,no,Yes,No,None,0.13,-0.49,0.116666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,None,-0.09,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+52,female,no,no,no,Yes,Yes,None,-0.02,0.81,0.45,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+56,female,no,no,no,No,Yes,Smoker,0.91,0.74,0.66,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,None,-1.34,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,None,0.56,-0.06,0.123333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+55,male,no,no,no,Yes,Yes,Quit,0.86,1.37,0.623333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,yes,Yes,Yes,None,,-0.73,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,yes,No,Yes,Quit,-1.17,-1.97,-1.523333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+70,male,no,no,no,No,Yes,Quit,0.66,0.09,0.54,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.17,0.1,0.173333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,Yes,None,0.73,0.793333333,0.672,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+75,male,no,no,no,Yes,Yes,Smoker,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+58,female,no,no,no,No,Yes,Smoker,0.93,0.34,0.43,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,No,Yes,None,0.18,0.62,0.036666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,no,Yes,Yes,None,-0.81,-0.65,-0.563333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+63,male,no,no,no,Yes,Yes,Smoker,-0.15,-0.83,-0.446666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,Quit,-0.0450929,-0.484755189,-0.483509496,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+81,male,yes,yes,no,Yes,No,Quit,-1.413291931,-1.973444458,-1.453624401,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+72,male,,yes,yes,Yes,No,Smoker,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+53,female,no,no,no,No,No,Smoker,0.48,0.9,0.34,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,yes,yes,no,No,No,None,-0.84,0.1,-0.443333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,No,None,-0.89,-1.5,-1.093333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,No,Yes,None,1.02,0.96,0.69,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,female,no,no,no,No,No,None,2.099518751,1.310439938,1.435708559,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,Yes,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+52,female,no,no,no,No,Yes,Smoker,0.42,0.35,0.34,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,Yes,None,-0.36,-0.72,-0.48,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+54,female,no,no,no,No,Yes,None,0.71,-0.27,0.333333333,Absent,Present,0,0 to 1,Geriatric Population Study,1,1,Zero
+63,female,no,no,no,Yes,No,None,0.45,-0.61,-0.07,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+61,female,no,no,no,Yes,No,None,0.44,-0.13,-0.246666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+48,male,no,no,no,No,Yes,Quit,0.48,0.14,0.453333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,male,no,no,no,Yes,Yes,Smoker,0.38,-0.84,-0.043333333,Present,Absent,1,0 to 1,Geriatric Population Study,1,1,1 to 2
+69,female,no,no,yes,Yes,Yes,None,-0.23,-0.42,-0.49,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,Yes,Yes,Quit,-1.17,0.66,-0.06,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,female,yes,yes,yes,Yes,Yes,None,-1.796666667,-1.55,-0.904,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+72,male,no,no,yes,No,Yes,Quit,,,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+61,female,no,no,no,Yes,Yes,None,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+76,female,no,no,no,Yes,Yes,None,-0.1,-1.16,-0.566666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+69,female,no,no,no,No,Yes,None,-0.02,0.06,-0.156666667,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+74,female,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+65,male,no,no,no,No,Yes,Quit,0.24,-0.56,0.08,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+69,male,yes,yes,no,Yes,Yes,Smoker,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+67,female,no,no,no,Yes,Yes,None,0.54,0.55,0.676666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,no,no,no,Yes,No,None,0.38,0.14,0.206666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,No,Yes,None,-0.29,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+52,male,no,no,no,No,Yes,Quit,0.62,1.56,1.193333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,None,0.08,-0.93,-0.326666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,female,no,no,no,No,Yes,None,0.57,0.41,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,yes,No,Yes,Quit,0.269921163,-0.909121597,-0.477174969,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,male,no,no,no,Yes,Yes,Quit,0.15,0.4,0.176666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,female,no,no,no,Yes,No,Quit,-0.823966041,-1.531682432,-0.873545175,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+45,male,no,no,no,No,Yes,Smoker,0.03,0.1,0.45,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,no,Yes,Yes,None,0.54,-0.38,0.163333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,None,0.4,0.27,0.386666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,male,no,no,no,Yes,Yes,None,-0.22,0.88,0.1,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+48,female,no,no,no,Yes,Yes,Quit,-0.08,-0.2,-0.313333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+45,female,no,no,no,No,No,Quit,0.88,1.42,1.61,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,no,Yes,Yes,Quit,0.31,0.06,0.636666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,male,no,no,no,Yes,Yes,Smoker,0.36,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,None,0.18,-1.34,-0.71,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,Yes,Smoker,-1.47,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,no,Yes,Yes,Smoker,-1.876666667,-2.063333333,-1.332,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+71,female,no,no,no,Yes,Yes,None,-1.59,-0.7,-0.986666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+79,male,no,no,no,Yes,No,Quit,-0.97,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,No,Quit,-0.500190975,-0.129665953,-0.159621027,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,No,Smoker,0.22932629,0.168396007,0.38495041,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,male,no,no,no,No,Yes,None,0.17,0.77,0.45,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,male,no,no,no,No,Yes,Quit,0.43,0.11,-0.016666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,Quit,0.51,0.71,0.236666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,male,no,no,no,Yes,Yes,Quit,0.54,1.31,0.903333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,Yes,Quit,-0.15,-1.783333333,-0.644,Present,Absent,2,2 to 3,Neuroimaging Study,2,4,3 to 5
+56,male,no,no,no,No,No,None,0.018008008,0.706955258,0.714967507,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,No,Yes,Quit,0.49,0.61,0.786666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+63,male,no,no,no,Yes,Yes,None,0.67,-0.1,0.86,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+46,female,no,no,no,No,No,Quit,0.66,0.7,0.93,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+49,male,no,no,no,Yes,Yes,Quit,0.712858442,-0.04213476,0.356222295,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+80,female,no,no,no,No,Yes,None,0.42,-1.43,-0.43,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,Yes,Yes,Smoker,0.29,0.8,0.6,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+48,female,no,no,no,No,No,Quit,0.82,-0.25,0.57,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,male,no,no,no,Yes,No,None,-0.12,-0.63,-0.573333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,No,Yes,None,0.41,0.35,0.39,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,yes,Yes,No,Smoker,-2.61,-0.9,-1.656666667,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+71,male,no,no,no,No,Yes,Smoker,,,,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+51,male,no,no,no,No,No,None,-0.367809557,-0.027914243,-0.051180614,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,male,no,no,no,Yes,Yes,Quit,-1.472539924,-0.05813098,-0.819416585,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,no,no,no,No,Yes,None,0.17,-0.26,-0.103333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+51,male,no,no,no,Yes,Yes,,0.75,0.62,1.273333333,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+69,female,no,no,no,Yes,No,Quit,-0.138860098,0.453171719,0.559467719,Present,Absent,3,2 to 3,Cerebrovascular Study,2,5,3 to 5
+68,male,no,no,yes,Yes,Yes,Quit,-0.25,-1.65,-0.753333333,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+64,male,no,no,no,No,Yes,Quit,0.07,0.85,0.366666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,yes,Yes,Yes,None,0.52,0.78,0.44,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,Quit,0.92,0.55,0.916666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,male,no,no,no,Yes,Yes,Quit,0.63,-0.25,0.033333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,Yes,Smoker,0.56,-0.01,0.37,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,No,No,None,0.34,-1.02,-0.446666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,male,no,no,yes,Yes,Yes,Quit,0.51,0.15,,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+81,male,no,no,no,Yes,No,Quit,-0.980558004,-0.714190649,-0.440130707,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,male,no,no,no,Yes,Yes,None,-1.01,-0.83,-0.886666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,No,Quit,0.820813419,0.860928892,0.7105252,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,female,no,no,no,No,Yes,None,0.21,-0.75,-0.266666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,male,no,no,no,No,Yes,Quit,0.990021205,0.525491904,0.823744482,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+64,male,no,no,no,Yes,No,Smoker,-0.142514814,0.243046,0.189378654,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,male,no,no,yes,Yes,Yes,Quit,-1,-1.32,-1.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,female,,yes,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,female,no,no,no,No,Yes,None,0.23,0.06,0.173333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,male,no,no,no,Yes,Yes,None,0.02,-0.14,0.043333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+76,male,yes,yes,no,No,No,None,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+77,male,no,no,no,Yes,Yes,Quit,-0.808244252,-0.24249494,-0.20380381,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+61,female,no,no,no,No,Yes,None,0.24,0.25,0.886666667,Present,Absent,0,0 to 1,Geriatric Population Study,,,1 to 2
+55,male,no,no,yes,Yes,Yes,None,-1.336666667,-1.863333333,-0.91,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+69,female,no,no,no,No,Yes,None,0.73,-0.61,-0.03,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+58,female,no,no,no,Yes,Yes,Quit,0.1,0.33,0.173333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+60,male,no,no,no,No,Yes,Quit,0.28,0.91,0.89,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,female,yes,yes,no,No,No,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+72,male,no,no,no,No,Yes,Quit,,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+72,female,no,no,yes,Yes,Yes,None,0.23,-1.14,-0.346666667,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+56,male,no,no,yes,Yes,Yes,Quit,0.648383348,0.131389469,0.426450118,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+72,male,no,no,yes,Yes,Yes,Quit,-1.233126842,-0.479074279,-0.681566336,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+72,male,no,no,no,Yes,Yes,Quit,-1.47,-0.56,-1.053333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,no,no,no,Yes,Yes,Quit,-2.13,-0.46,-1.086666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+46,female,no,no,no,Yes,No,Smoker,0.32,0.03,0.123333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,male,no,no,yes,Yes,Yes,Quit,-2.405,,-1.411666667,Present,Absent,3,2 to 3,Neuroimaging Study,2,5,3 to 5
+53,male,no,no,yes,Yes,No,Quit,0.71,1.95,0.843333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+60,male,no,no,yes,Yes,Yes,Quit,-0.020956463,0.266968936,0.256445386,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,No,Yes,None,-0.6,0.43,0.13,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,No,Smoker,0.515956379,0.399264949,0.469070673,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+52,male,no,no,no,Yes,Yes,None,0.99,0.69,1.283333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+77,male,no,no,no,Yes,Yes,Quit,-1.11,-1.72,-1.063333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,No,Quit,1.266760633,0.69680003,0.683787233,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+82,male,yes,yes,yes,Yes,Yes,Quit,-1.213333333,-1.233333333,-0.817,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+73,female,no,no,no,Yes,Yes,None,-1.15,-0.99,-1.013333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,yes,Yes,No,None,-0.08,-1.34,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,0.55,0.27,0.076666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+49,male,no,no,no,Yes,Yes,Smoker,0.22,0.49,0.556666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,no,no,no,No,Yes,None,0.24,-0.87,-0.306666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,-0.43,-0.9,-0.536666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,No,None,0.4,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,female,no,no,no,Yes,No,None,-0.26,-1.73,-0.833333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,No,Quit,-1.222755248,-0.725493363,-0.951047165,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+79,male,no,no,no,Yes,Yes,None,,,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+60,male,no,no,yes,Yes,Yes,Smoker,-0.553463792,-0.618005521,-0.651405997,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,Yes,Yes,None,0.08,-1.31,0.21,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,female,no,no,no,Yes,No,Quit,0.04478839,0.125868409,0.135509495,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,male,no,no,no,No,No,Quit,-2.2,0.29,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,male,no,no,no,No,Yes,Quit,0.846812797,0.941052582,1.062432431,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+67,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,no,no,yes,No,Yes,Smoker,-0.01,0.54,-0.096666667,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+75,female,no,no,yes,Yes,No,Smoker,0.5,-0.27,0.006666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+45,female,no,no,no,No,Yes,None,0.95,,,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+65,male,no,no,no,Yes,Yes,None,0.42,-0.61,-0.31,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,No,No,None,0.6,1.67,1.376666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+64,male,no,no,no,No,No,Smoker,0.401786491,0.418483468,0.410089216,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,male,no,no,no,Yes,Yes,None,-0.12,-1.64,-0.986666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.04,-0.26,-0.243333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+75,male,no,no,no,Yes,No,None,-1.74,-0.79,-1.133333333,Present,Present,1,0 to 1,ASPS Family Study,2,3,3 to 5
+75,female,no,no,no,Yes,Yes,None,0.1,-0.27,0.013333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+47,male,no,no,no,Yes,No,Smoker,-0.4,0.84,0.02,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+65,male,,yes,no,No,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,male,no,no,no,Yes,Yes,None,0.19,-1.31,-0.493333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,Yes,Quit,-1.3,-1.27,-1.256666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+59,female,no,no,no,No,No,Quit,0.534183533,0.542632819,0.420345433,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,male,no,no,no,No,Yes,Quit,0.75,1.06,0.406666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+72,male,no,no,no,Yes,Yes,None,-0.82,-1.16,-0.903333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,male,no,no,yes,Yes,No,Smoker,-1.38,-1.12,-1.13,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,Yes,Quit,-0.01,-1.05,-0.493333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+48,male,no,no,no,No,Yes,None,1.17,1.27,0.96,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,no,no,no,No,Yes,Quit,0.55,0.31,0.42,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+52,female,no,no,yes,No,Yes,Quit,-0.584318892,-0.352789672,-0.559612759,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+67,female,no,no,no,Yes,Yes,Smoker,-0.63,0.26,-0.18,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,male,no,no,no,Yes,No,Quit,0.70878859,0.948556225,0.701501971,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,female,no,no,no,Yes,Yes,Quit,0.58,0.79,0.363333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+71,male,no,no,no,No,No,Quit,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,-0.02,1.04,0.5,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,None,0.38,-0.39,-0.046666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,,yes,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,no,Yes,Yes,Quit,1.28,0.36,0.744,Present,Present,1,0 to 1,Neuroimaging Study,2,3,1 to 2
+62,female,no,no,no,Yes,Yes,None,0.55,0.93,0.22,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,Yes,Quit,,-0.31,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,No,Quit,-1.46,-1.36,-1.37,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+63,male,no,no,no,No,Yes,Smoker,-0.09,-1.11,-0.75,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,Yes,Quit,-1.036666667,0.116666667,-0.5,Absent,Absent,1,0 to 1,Neuroimaging Study,1,1,Zero
+53,male,no,no,no,No,No,None,1.052323642,1.253888992,0.644156714,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+78,female,no,no,yes,Yes,Yes,Quit,-0.52,-1.32,-0.86,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,0.18,0.1,0.203333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+64,female,no,no,no,No,Yes,None,-0.01,0.34,0.143333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+65,female,no,no,no,Yes,Yes,None,-0.35,0.42,0.233333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,No,None,-0.391563759,-0.288739914,-0.219817336,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,female,no,no,no,Yes,Yes,Quit,-0.136722795,0.778499824,0.440366207,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+65,female,no,no,no,Yes,Yes,None,0.12,0.69,0.073333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,No,Quit,-0.58,-0.7,-0.49,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+61,male,no,no,no,Yes,Yes,Quit,0.57,0.05,0.24,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,male,no,no,no,No,Yes,Smoker,0.57,,,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+57,male,no,no,no,Yes,Yes,Smoker,1.615962212,0.646954114,1.057987789,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+82,female,no,no,no,Yes,Yes,None,-0.8,0.37,-0.593333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,yes,yes,no,Yes,Yes,Smoker,0.406666667,-1.43,-0.495,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+67,male,no,no,no,Yes,Yes,Smoker,0.23,-0.2,0.223333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,No,Yes,None,0.28,-1.05,-0.3,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,No,None,-0.26,0.12,-0.283333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,male,no,no,no,Yes,Yes,Quit,0.32,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,-0.24,-0.48,-0.513333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,0.493333333,0.633333333,0.906,Present,Present,1,0 to 1,Neuroimaging Study,2,3,1 to 2
+67,female,no,no,no,Yes,Yes,None,0.09,0.44,0.44,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+74,male,no,no,no,Yes,Yes,None,0.21,0.2,0.096666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,no,No,Yes,Smoker,0.2,0.01,-0.203333333,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+78,female,no,no,no,No,Yes,None,-1.02,-0.8,-1.07,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+62,female,no,no,no,Yes,Yes,None,0.68,-0.79,-0.08,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,None,0.2,0.35,0.173333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,male,no,no,no,No,No,Quit,0.29,-0.1,-0.02,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+77,female,no,no,no,Yes,Yes,None,0.11,-0.94,-0.626666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+45,male,no,no,no,Yes,Yes,None,0.51,1.32,0.94,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,No,Yes,None,0.35,1.15,0.94,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,Yes,Smoker,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+64,male,no,no,no,No,Yes,Smoker,-0.18,1.28,0.4,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,None,0.51,-0.09,0.3,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,No,Yes,None,-0.93,1.28,-0.203333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,no,Yes,Yes,None,0.73,0.17,0.026666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,Yes,Quit,-0.548560258,-1.578948061,-1.159623747,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,Yes,None,-0.4,-0.6,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,female,yes,yes,no,Yes,Yes,None,-0.750195055,-0.854738537,-0.701034756,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+73,male,no,no,no,Yes,No,Quit,0.77,0.8,0.676666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,male,no,no,no,No,Yes,None,0.5,1.09,0.666666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,yes,Yes,Yes,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+70,female,no,no,no,Yes,Yes,None,0.26,-0.75,-0.37,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+52,female,no,no,no,No,No,None,0.5,0.94,0.766666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,no,No,Yes,Smoker,-0.32,0.31,0.03,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+61,female,no,no,no,No,Yes,None,0.21,-0.4,-0.133333333,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+72,male,no,no,no,Yes,Yes,Quit,0.085064183,-0.563263361,-0.327042905,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+73,female,no,no,no,Yes,Yes,None,-0.17,0.08,-0.1,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+74,male,no,no,yes,Yes,Yes,Quit,-2.25,,,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+57,female,no,no,no,No,Yes,None,0.89,1.04,0.856666667,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+65,female,no,no,no,No,Yes,None,0.56,0.83,1.133333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,yes,yes,yes,Yes,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+68,male,no,no,no,No,Yes,None,-0.04,0.11,-0.2,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,female,no,no,no,No,Yes,Quit,0.48,0.68,0.446666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,female,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+56,female,no,no,no,Yes,Yes,Quit,-0.412874366,-0.228548486,-0.27519566,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+77,male,yes,yes,no,Yes,Yes,Quit,0.426736288,-0.920229773,-0.671302088,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+73,female,no,no,no,Yes,Yes,None,-0.53,-0.02,-0.46,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+52,male,no,no,no,No,No,None,0.59,1.17,0.493333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+64,male,no,no,no,Yes,No,None,-0.12,-0.35,-0.3,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+49,male,no,no,no,No,No,Smoker,0.314029374,0.635094718,-0.066930784,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,male,no,no,no,No,Yes,None,0.04,-0.103333333,0.16,Present,Absent,3,2 to 3,Neuroimaging Study,2,5,3 to 5
+77,female,no,no,no,Yes,Yes,Quit,-0.74,-1.01,-0.956666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+80,male,yes,yes,no,Yes,Yes,Quit,-1.002809519,-0.775797954,-0.600697238,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+82,female,no,no,yes,No,Yes,None,-1.96,-1.5,-0.992222222,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+72,male,no,no,no,Yes,No,Quit,0.393690062,0.164058563,0.391042158,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+78,male,no,no,no,Yes,Yes,Quit,0.14,-0.96,-0.52,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,yes,No,Yes,Smoker,-0.03,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,Quit,-0.22,-0.19,-0.443333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+72,male,yes,yes,yes,Yes,Yes,Quit,-0.87,-0.07,-0.663333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,yes,No,Yes,Smoker,0.16,0.27,-0.026666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+50,male,no,no,no,Yes,Yes,Quit,0.6,0.84,0.626,Present,Present,2,2 to 3,Neuroimaging Study,2,4,1 to 2
+49,male,no,no,no,No,No,None,-0.27689976,0.249597831,0.311993006,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+67,female,no,no,no,Yes,No,Smoker,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+67,male,no,no,yes,Yes,Yes,Smoker,1.03,-0.556666667,0.541,Present,Present,2,2 to 3,Neuroimaging Study,2,4,1 to 2
+49,male,no,no,no,Yes,No,Quit,1.09,0.93,1.76,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,male,no,no,no,No,Yes,Quit,0.79,1.05,1.36,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,Yes,Yes,None,-0.92,-0.58,-0.896666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,male,no,no,yes,Yes,Yes,Quit,-1.746666667,-1.693333333,-1.297,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+76,female,no,no,no,No,Yes,None,-2.66,-1.48,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+80,female,no,no,no,Yes,No,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+83,female,no,no,no,Yes,Yes,None,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+75,female,no,no,no,Yes,Yes,Quit,0.24,-0.77,-0.246666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,Yes,Quit,0.68,0.58,0.606666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,-0.17,0.16,-0.273333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+69,female,no,no,no,No,Yes,Quit,-1,0.59,-0.38,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+77,female,no,no,no,Yes,No,None,-0.931076252,-1.357806923,-0.987625882,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+77,male,no,no,yes,No,Yes,Quit,-1.3,-2.03,-1.46,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+59,male,no,no,no,Yes,Yes,Smoker,0.744944091,-0.414539015,0.252818751,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,yes,No,Yes,Quit,-0.77,0.41,-0.266666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+54,female,no,no,no,Yes,No,None,0.745974137,0.906332059,1.083980789,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,female,no,no,no,Yes,Yes,None,0.61,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,-0.37,-1.06,-1.003333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,female,no,no,no,No,Yes,None,0.12,0.66,0.523333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+66,female,no,no,yes,Yes,Yes,None,0.13,0.61,0.113333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,female,no,no,no,Yes,Yes,None,-0.78,-1.11,-0.266666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+59,female,no,no,no,Yes,No,Quit,0.13,-0.56,-0.21,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,No,Yes,Smoker,0.76,1.4,0.88,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+64,female,no,no,no,No,Yes,None,0.39,-0.24,-0.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,No,Yes,Quit,0.09,0.75,0.796666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,no,Yes,No,None,-0.92,,,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+69,female,no,no,no,Yes,Yes,None,0.56,-0.23,-0.086666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+59,male,no,no,no,No,Yes,Quit,-0.245778713,0.231376945,-0.037026306,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,female,no,no,yes,Yes,Yes,None,0.73,0.36,0.6,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,Yes,Yes,Quit,0.244847803,-0.634691232,0.035216628,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+52,female,no,no,no,Yes,Yes,Quit,0.274333319,1.066504029,0.971071927,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+45,female,no,no,no,No,Yes,Quit,0.58,0.7,0.343333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,no,Yes,Yes,None,-5.2,0.21,-2.063333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,female,no,no,no,Yes,Yes,None,-1.13,-0.24,-0.88,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+72,male,no,no,no,Yes,Yes,Smoker,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+77,male,,yes,no,Yes,Yes,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+75,female,no,no,no,Yes,Yes,None,-0.33,-1.29,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,Quit,0.49,0.18,0.13,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,No,Smoker,0.54,-1.07,-0.423333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,yes,Yes,Yes,Quit,0.69,0.27,0.643333333,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+49,female,no,no,no,Yes,No,Smoker,,,,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+83,female,no,no,no,No,Yes,None,-1.81,-2.46,-1.696666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,No,Quit,0.82,0.27,0.193333333,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+63,female,no,no,no,No,No,None,0.48,0.79,0.38,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,None,0.2,-0.03,0.473333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Smoker,-0.533403521,-0.515986672,-0.322104659,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+69,female,no,no,no,Yes,Yes,Quit,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+74,male,no,no,no,No,No,None,0.06,,,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+66,male,no,no,no,Yes,Yes,Quit,-0.21,0.18,-0.266666667,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+70,female,no,no,no,Yes,Yes,Smoker,-0.61,0.75,-0.403333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,No,None,-0.219254245,-0.775005044,-0.645888196,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+58,female,no,no,no,Yes,Yes,,0.18,0.1,-0.03,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+77,male,no,no,no,Yes,Yes,Quit,-0.69,-0.67,-0.596666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,No,None,0.62,-1.13,-0.243333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,male,no,no,no,No,Yes,Quit,0.37,-0.15,0.056666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+76,female,no,no,no,Yes,Yes,None,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+66,female,no,no,no,Yes,Yes,Quit,-0.36,-0.56,-0.35,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+67,male,no,no,no,Yes,Yes,Smoker,-0.229128914,-0.490672261,-0.355761167,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+81,male,no,no,no,Yes,Yes,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+73,female,no,no,no,Yes,Yes,None,0.32,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,male,no,no,no,Yes,Yes,Smoker,-0.02,-0.42,-0.146666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,male,no,no,no,Yes,No,None,0.64,0.82,0.57,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+80,male,no,no,no,Yes,Yes,None,0.46,-0.7,-0.276666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,female,no,no,no,No,Yes,None,0.74,1.35,0.603333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+48,female,no,no,no,No,Yes,Smoker,0.55,0.6,0.44,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+64,male,no,no,no,No,No,Smoker,-1.52,-0.7,-0.756666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+72,male,no,no,yes,Yes,Yes,None,0.3,-1.666666667,-0.493,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+59,female,no,no,no,Yes,Yes,None,-1.198278922,-0.024285898,-0.578298491,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,male,no,no,no,Yes,Yes,None,-2.89,-0.17,-1.47,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,None,0.23,0.06,0.053333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+49,male,no,no,no,No,No,None,1.17,1.37,1.64,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,no,No,No,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+78,female,no,no,no,Yes,Yes,None,0.13,-1.1,-0.443333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,yes,yes,no,Yes,Yes,Quit,0.315422745,-0.721373937,-0.262867779,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+66,female,no,no,no,No,Yes,Smoker,-0.37,0.29,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+80,female,no,no,no,No,Yes,None,-0.06,-0.1,0.043,Absent,Present,3,2 to 3,Neuroimaging Study,2,4,Zero
+54,female,no,no,no,No,Yes,None,0.2,1.69,0.916666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+40,female,no,no,no,No,No,Quit,0.94,0.93,1.313333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+50,male,no,no,no,Yes,Yes,Smoker,0.17,0.58,0.486666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,female,no,no,no,No,No,None,0.860193298,0.97679919,0.793452885,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,male,no,no,no,Yes,Yes,Quit,-0.4,-0.19,-0.343333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,No,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+51,female,no,no,no,Yes,No,None,0.36,1.31,1.023333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+82,female,no,no,no,Yes,Yes,None,-1.18,-1.55,-1.286666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Quit,-0.327889673,1.228307747,0.414873123,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,female,no,no,no,Yes,Yes,None,0.06,-1.44,-0.63,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,yes,Yes,Yes,Smoker,-1.26,-1.77,-1.206666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,0.14,-0.19,-0.11,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,No,Yes,None,-0.09,1.18,0.906666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+80,female,yes,yes,no,Yes,Yes,None,-1.22,-2.14,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,0.24,-0.39,0.06,Present,Absent,2,2 to 3,ASPS Family Study,2,3,3 to 5
+68,female,no,no,no,Yes,Yes,None,0.62,1.01,0.653333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,male,no,no,no,No,No,Quit,0.658963969,0.714728389,0.491431445,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+69,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+57,male,no,no,no,Yes,Yes,Quit,0.38395651,1.235309287,0.914041701,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+63,male,no,no,yes,Yes,Yes,Quit,0.08,0.01,-0.013333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,male,no,no,no,No,Yes,None,0.44,1.06,0.406666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,No,None,0.466587724,-0.053007549,0.066279259,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,male,no,no,no,Yes,No,Smoker,1.107229416,1.645065629,1.146891817,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+77,female,no,no,no,Yes,Yes,None,-0.67,0.18,-0.333333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+61,female,no,no,no,No,Yes,None,0.56,0.55,0.326666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,yes,Yes,Yes,None,-1.3,-0.63,-1.046666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+79,female,no,no,no,Yes,Yes,Smoker,-0.17,-0.49,-0.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+61,male,no,no,no,No,Yes,Quit,0.443203884,0.008332291,0.60945864,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,female,no,no,no,No,Yes,None,-1.08,-1.2,-0.83,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,Yes,No,None,0.24,0.37,0.133333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,No,Quit,0.29,-0.94,-0.26,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,yes,yes,no,Yes,Yes,Smoker,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+74,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+85,female,yes,yes,no,No,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+64,male,no,no,no,Yes,Yes,Quit,0.9,0.64,1.106666667,Absent,Present,0,0 to 1,Geriatric Population Study,1,1,Zero
+61,female,no,no,yes,Yes,Yes,Quit,-1.42,-2.06,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+55,male,no,no,no,Yes,Yes,Quit,0.87,0.77,0.656666667,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+81,female,no,no,no,Yes,Yes,None,-1.18,-1.62,-0.976666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,No,Yes,None,,-0.44,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+51,female,no,no,no,No,Yes,None,0.79,1.63,1.043333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+45,female,no,no,no,No,Yes,Quit,0.52,-0.6,0.346666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,male,no,no,no,Yes,Yes,Quit,-0.62,-1.27,-0.836666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,female,no,no,no,Yes,Yes,None,0.55,-0.2,0.29,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,no,Yes,No,Smoker,0.55,0,-0.113333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,None,-0.89,-0.69,-0.466666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,No,None,0.2,-0.56,-0.136666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+60,male,no,no,no,No,Yes,Quit,0.39,0.44,0.336666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+53,female,no,no,no,No,Yes,None,0.69,1.08,0.7,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+59,male,no,no,no,Yes,Yes,None,-0.231476668,-0.453550118,-0.162304669,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+79,male,no,no,no,No,No,Quit,-0.73,-1.4,-0.986666667,Present,Present,2,2 to 3,ASPS Family Study,3,3,1 to 2
+77,male,yes,yes,no,Yes,No,Quit,-0.486592003,-1.292756721,-0.926801028,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+76,male,no,no,no,Yes,Yes,None,-1.43,-0.46,-0.153333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+86,male,no,no,no,No,No,Quit,-0.625623687,-1.248430577,-0.861058048,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+74,male,yes,yes,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,Yes,Yes,None,0.74,0.11,0.75,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+68,male,yes,yes,no,No,Yes,Quit,0.62,1.11,0.38,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,No,Yes,None,-1.45,0.45,-0.81,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,yes,No,Yes,None,0.68,0.43,0.736666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,No,Yes,Smoker,0.17,0.25,0.2,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,,-0.52,-0.76,-0.913333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,male,no,no,no,Yes,Yes,None,0.51,-0.15,0.153333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+84,male,yes,yes,no,Yes,Yes,Quit,-2.02,-1.827477967,-1.32024339,Present,Present,2,2 to 3,Neuroimaging Study,3,5,3 to 5
+63,female,no,no,no,No,Yes,None,0.27,-0.74,-0.15,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,yes,Yes,Yes,Quit,-0.17,0.41,-0.07,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+60,male,no,no,no,Yes,No,Quit,0.123587367,-0.108595437,-0.290809252,Present,Present,3,2 to 3,Cerebrovascular Study,3,7,>5
+75,female,no,no,no,Yes,Yes,Quit,-0.18,-0.42,-0.243333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,Yes,No,Quit,1.321611954,0.443618173,1.1587601,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+69,male,no,no,no,Yes,Yes,Smoker,-0.50300049,-1.327066562,-1.163154325,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+67,male,no,no,no,No,No,Quit,0.52728444,0.234286464,0.422561346,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,Yes,Yes,Smoker,-0.13,-0.57,-0.43,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,Yes,Quit,0.51,-0.53,-0.1,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+73,female,no,no,no,Yes,Yes,None,-0.391074048,0.762295922,0.245500515,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+74,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+69,male,no,no,no,No,No,Quit,-0.160234823,-0.110140757,-0.119292362,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+69,male,no,no,no,Yes,No,None,-0.27,0.21,-0.093333333,Present,Present,3,2 to 3,ASPS Family Study,3,4,1 to 2
+63,male,no,no,no,No,No,None,0.610216488,1.007770344,0.598152365,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,yes,Yes,Yes,None,0.27,0.34,0.056666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,No,Quit,0.27,-0.8,-0.016666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+69,male,no,no,no,No,Yes,None,-0.3,-0.84,-0.193333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,No,Smoker,-1.103667202,-1.166045711,-0.833705916,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,female,no,no,no,Yes,No,Smoker,-0.633975375,-0.579452083,-0.097354478,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,male,no,no,no,No,No,Quit,-0.143002008,0.593183627,0.277101269,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+74,female,no,no,no,Yes,No,Quit,0.4,-0.69,-0.216666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,Yes,Yes,Quit,0.128440444,0.454874792,0.43179444,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,No,None,-0.42,0.84,-0.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,No,None,0.268097439,-0.068782976,0.356902023,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+61,male,no,no,no,No,Yes,Smoker,0.52,0.59,0.123333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,None,-0.13,-0.3,-0.16,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+60,male,no,no,no,Yes,Yes,Quit,0.32,0.8,0.51,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,female,no,no,no,No,Yes,None,0.423333333,-1.343333333,-0.164,Present,Absent,3,2 to 3,Neuroimaging Study,2,4,1 to 2
+72,female,no,no,no,Yes,Yes,None,-0.88,0.08,-0.716666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,Yes,Quit,0.3,,,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+78,female,no,no,no,Yes,Yes,None,-1.13,-0.92,-0.653,Present,Absent,3,2 to 3,Neuroimaging Study,2,4,1 to 2
+61,male,no,no,no,Yes,Yes,None,-3.81,-0.18,-1.73,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,Yes,Quit,0.48,0.67,0.313333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+55,female,no,no,no,Yes,Yes,Quit,-0.51,-0.28,-0.186666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+54,female,no,no,no,Yes,Yes,None,0.79,0.07,0.09,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+67,female,no,no,no,No,No,None,0.28,0.99,0.223333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+76,male,no,no,no,Yes,Yes,None,0.01,-0.29,-0.34,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,No,None,0.23,1.05,1.53,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+72,female,no,no,no,No,Yes,None,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,No,Yes,None,0.47,-0.5,-0.22,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,male,no,no,no,No,Yes,Quit,-0.25,0.71,0.363333333,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+46,female,no,no,no,Yes,Yes,None,0.71,1.44,1.063333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+54,female,no,no,no,No,No,None,1.48,1.59,1.586666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,male,yes,yes,no,Yes,No,Quit,-1.004965747,-1.270102013,-1.227443827,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+57,female,no,no,no,No,Yes,Quit,0.87,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+59,male,no,no,no,Yes,Yes,Quit,-0.409875298,-0.347658503,-0.430328615,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,female,,yes,no,Yes,No,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+56,male,no,no,no,Yes,Yes,Quit,-1.14,0.65,0.433333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+53,female,no,no,no,No,No,None,-0.16810979,0.468675785,0.258628039,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,female,no,no,no,No,No,None,0.3,1.66,0.916666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,yes,Yes,Yes,Smoker,-0.21,-0.02,0.123333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,male,no,no,no,No,Yes,None,0.88,0.57,0.9,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+70,male,no,no,no,No,Yes,Quit,0.16,-0.39,0.133333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,No,No,Quit,1.17,0.39,0.855,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+82,female,no,no,no,Yes,Yes,None,-0.53,-1.556666667,-0.493,Present,Present,2,2 to 3,Neuroimaging Study,3,5,3 to 5
+63,female,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,female,no,no,no,No,No,Smoker,0.641029039,1.853598469,1.251136891,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+68,female,no,no,yes,Yes,Yes,None,-0.03,-0.91,-0.353333333,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+75,male,yes,yes,yes,Yes,Yes,Quit,-2.26,-1.6,-1.175,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+51,female,no,no,no,No,No,None,0.53,1.15,0.21,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,None,-0.41,-0.72,-0.546666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,male,no,no,no,Yes,Yes,None,-0.8,-0.31,-0.67,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,None,0.66,-0.28,0.21,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,None,-2.09,-1.58,-1.713333333,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+68,female,no,no,no,No,Yes,Smoker,-0.96,-1.06,-1.123333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+57,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,female,no,no,no,Yes,Yes,None,-1.926666667,-0.251037867,-0.77331136,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+78,female,no,no,no,Yes,Yes,None,-0.04,-0.84,-0.363333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+61,female,no,no,no,Yes,Yes,None,0.47,0.04,0.306666667,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+75,female,no,no,no,Yes,Yes,Quit,0.61,-0.06,0.263333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,female,no,no,no,No,Yes,Smoker,0.18,-1.06,-0.566666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+62,female,no,no,yes,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+62,female,no,no,no,Yes,No,Quit,1.059943227,1.186630042,1.04963022,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,male,no,no,no,No,Yes,Quit,-1.826666667,-1.46,-1.07,Present,Absent,3,2 to 3,Neuroimaging Study,2,5,3 to 5
+57,female,no,no,yes,No,Yes,Quit,-0.268604792,-1.663407925,-1.217006057,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,Yes,Yes,None,0.38,-0.38,-0.15,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+56,female,no,no,no,No,Yes,None,0.5,1.69,0.866666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,no,no,yes,Yes,Yes,None,-1.8,-0.44,-1.15,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+83,female,no,no,no,No,Yes,Quit,-0.99,-1.17,-1.046666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,yes,No,Yes,None,-0.84,-0.35,-0.28,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+59,male,no,no,no,No,Yes,None,0.32,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,Yes,Smoker,0.4,1.21,0.52,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+66,female,no,no,no,Yes,Yes,None,0.24,-0.34,-0.126666667,Present,Absent,2,2 to 3,Geriatric Population Study,,,3 to 5
+65,female,no,no,no,No,Yes,None,-0.59,-0.87,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+48,female,no,no,no,No,No,None,0.57,1.26,0.49,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,female,no,no,no,Yes,Yes,None,-1.793333333,-0.75,-1.149,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+73,female,no,no,no,Yes,Yes,Quit,0.993333333,0.476666667,0.84,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+55,female,no,no,no,Yes,No,None,0.441387773,0.580288583,0.305625865,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,no,no,no,Yes,Yes,None,-0.63,-0.34,-0.503333333,Present,Absent,2,2 to 3,ASPS Family Study,2,3,3 to 5
+68,male,no,no,no,No,Yes,Quit,-0.54,-0.91,-0.553333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,No,None,0.78,-1.27,-0.16,Present,Present,3,2 to 3,ASPS Family Study,3,5,3 to 5
+79,female,,yes,yes,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+66,female,no,no,no,No,Yes,None,-0.17,0.38,0.103333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+51,female,no,no,no,No,Yes,None,-0.2,1.29,0.396666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,No,No,None,,,,Absent,Present,2,2 to 3,Cerebrovascular Study,2,3,Zero
+69,male,no,no,no,No,No,Quit,0.395584475,0.401096004,0.384111159,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+54,male,no,no,no,Yes,No,Quit,0.02,0.76,0.146666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+57,male,no,no,no,Yes,Yes,Smoker,-1.389773731,-1.80608983,-1.822186337,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+67,female,yes,yes,no,Yes,Yes,None,-0.05,-0.62,-0.29,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+60,male,no,no,no,No,No,Quit,-0.489936378,0.17039761,0.267474881,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,No,No,Quit,0.6,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,female,no,no,yes,Yes,Yes,None,-0.23,-0.53,-0.17,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,No,Yes,None,0.68,0.72,0.983333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,0.31,-0.61,-0.116666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+47,male,no,no,no,No,Yes,None,0.35,1.1,0.79,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+66,male,no,no,no,No,Yes,None,0.05,-0.32,-0.26,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,No,Yes,Quit,0.08,0.57,0.326666667,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+62,female,no,no,yes,Yes,Yes,None,0.09,0.24,0.5,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Smoker,0.73,-0.23,-0.003333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,yes,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,no,Yes,No,None,0.09,0.22,0.163333333,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+65,male,no,no,no,No,Yes,Quit,-0.29,0.15,-0.19,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,No,Quit,-0.385502213,-0.252853875,0.01077707,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,male,no,no,no,No,Yes,None,0.8,0.75,0.676666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,0.52,-1.17,-0.183333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+80,female,no,no,no,Yes,Yes,None,0.15,-0.45,-0.193333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,No,Quit,1.360788718,1.550486204,1.191737349,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+65,male,no,no,no,No,Yes,None,0.42,0.31,0.723333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+54,female,no,no,no,Yes,No,Quit,0.308844874,1.131985063,0.970056092,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+57,female,no,no,no,No,Yes,None,0.79,0.83,0.47,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+74,male,no,no,no,No,Yes,None,0.31,-1.29,-0.676666667,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+75,female,no,no,no,Yes,Yes,Quit,-0.5,-0.39,-0.466666667,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+67,female,no,no,no,No,Yes,None,-0.34,0.32,0.153333333,Absent,Absent,3,2 to 3,Geriatric Population Study,1,2,Zero
+73,female,no,no,no,Yes,Yes,None,-2.77,-0.7,-1.643333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+47,female,no,no,yes,Yes,Yes,Quit,-0.42,-1.18,-0.853333333,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+64,female,no,no,no,Yes,No,None,-0.018383309,-0.958310781,-0.456194643,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+52,female,no,no,no,No,Yes,Smoker,0.36,-0.8,-0.12,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,yes,Yes,Yes,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+77,male,no,no,yes,Yes,Yes,Quit,-1.05,-1.45,-0.926666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+51,male,no,no,no,No,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,female,yes,yes,yes,Yes,No,None,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+62,female,no,no,no,No,No,None,0.44,0.84,0.74,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+77,female,no,no,no,Yes,Yes,None,0.245298536,-1.262485244,-0.678317963,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+82,male,,yes,no,Yes,Yes,Quit,-1.73102929,-0.805561793,-1.187207679,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,male,no,no,no,Yes,Yes,None,-0.61,-0.55,-0.173333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,None,0,1.55,0.423333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,No,Smoker,-0.503915359,-1.105984291,-0.581302298,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,No,None,0.09,0.39,0.143333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,female,no,no,no,No,No,Smoker,0.14,0.57,0.143333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,no,No,No,Smoker,-0.562637481,-0.489914908,-0.388334649,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,No,Quit,1.384247974,0.855530704,0.681229365,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+65,female,no,no,no,No,Yes,Smoker,-0.96,0.06,-0.503333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,no,Yes,No,None,1.485156211,0.733883166,1.044260177,Absent,Present,0,0 to 1,Cerebrovascular Study,1,1,Zero
+61,female,no,no,no,No,Yes,Quit,-0.14,0.98,0.133333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,Quit,-1.03,-0.33,-0.776666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+77,male,no,no,no,Yes,Yes,Quit,0.24,-0.54,-0.066666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,Yes,Quit,2.35,0.42,0.713333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+73,female,no,no,no,No,Yes,None,0.55,0.4,0.246666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,female,no,no,no,Yes,Yes,Smoker,0.58,0.63,0.666666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,yes,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+44,female,no,no,no,No,No,Smoker,0.83,0.69,0.68,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,no,Yes,Yes,Quit,0.48,0.38,0.956666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,Quit,-0.12,-0.13,0.163333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,no,Yes,Yes,None,0.63,-0.45,0.093333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,No,Quit,0.30979127,-0.023824202,0.225484271,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+71,female,no,no,no,Yes,Yes,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+56,female,no,no,no,Yes,Yes,Quit,0.781833293,-0.308206532,0.145476109,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+66,female,no,no,no,Yes,No,None,0.922866765,-1.132531444,-0.687467261,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+68,male,no,no,no,Yes,No,None,-0.85,-0.28,-0.546666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+80,male,no,no,no,No,No,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+61,male,no,no,no,Yes,No,Quit,0.02,0.58,0.54,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,Quit,-0.433333333,-0.12,-0.195,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+80,male,,yes,no,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+69,male,,yes,yes,Yes,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+68,female,no,no,no,Yes,No,None,0.557184348,1.142717991,1.179884022,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,no,No,Yes,Quit,0.647112438,-0.296446659,0.006208535,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+45,male,no,no,no,No,Yes,None,0.59,,,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+52,female,no,no,no,Yes,Yes,Quit,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+61,female,no,no,no,Yes,Yes,None,0.74,-0.2,0.316666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,yes,yes,no,Yes,No,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+62,female,no,no,no,No,Yes,None,0.7,-0.97,-0.133333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+57,male,no,no,no,No,No,Quit,0.709663174,1.483162981,1.096873334,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+80,male,no,no,no,No,No,None,-0.23,-0.74,-0.623333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,No,None,,,,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+57,male,no,no,no,No,No,Quit,0.741140319,1.797275346,0.835719624,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,Yes,Yes,None,0.56,0.21,0.373333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+66,male,no,no,no,No,Yes,None,,0.03,,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+55,female,no,no,no,No,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,Smoker,0.11,,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+71,female,no,no,no,Yes,Yes,None,0.68,0.56,0.853333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+66,female,no,no,yes,Yes,Yes,None,0.29,0.78,0.263333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,Yes,Yes,Quit,0.953187634,0.755210326,0.886590808,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,male,no,no,no,No,Yes,Smoker,,0.4,,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+63,female,no,no,no,No,Yes,None,-0.39,0.22,-0.28,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,No,No,None,0.24,-1.42,-0.41,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,yes,yes,no,Yes,Yes,None,-3.086666667,-2.616666667,-2.178,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+61,female,no,no,no,Yes,Yes,Quit,0.09,0.59,0.233333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,yes,Yes,Yes,Quit,-0.52,-1.52,-0.646666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+70,male,no,no,no,No,Yes,Quit,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+56,female,no,no,no,No,Yes,None,0.57,1.35,0.673333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,male,no,no,no,Yes,No,None,0.71,1.15,1.443333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,Yes,Quit,0.17,-0.32,-0.066666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,male,no,no,no,Yes,Yes,None,0.4,0.21,0.286666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+53,female,no,no,no,Yes,Yes,Smoker,-0.33,0.35,-0.266666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,male,no,no,no,Yes,Yes,None,-0.526666667,-1.353333333,-0.498,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+60,male,no,no,no,Yes,Yes,None,0.54,-0.25,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,Yes,None,0.4,0.41,0.123333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,0.31,0.476666667,0.402,Present,Present,3,2 to 3,Neuroimaging Study,3,5,1 to 2
+77,female,,yes,no,No,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,male,no,no,no,No,Yes,Quit,0.314717885,-0.843126689,-0.379438691,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,female,no,no,no,No,Yes,None,0.37,1.58,0.58,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,None,0.33,0.69,0.346666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+80,male,no,no,no,No,Yes,Quit,-0.12,-1.29,-0.553333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+64,female,no,no,no,No,Yes,None,-0.69,-0.11,-0.616666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+79,female,no,no,no,No,Yes,None,-0.26,-1.16,-0.543333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,Smoker,-0.77,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,male,no,no,yes,No,Yes,Quit,-0.395870212,0.104457986,0.058564361,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+81,female,no,no,no,Yes,Yes,None,-0.88275175,-0.242520671,-0.523455269,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,Yes,None,0.6,-0.05,0.42,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+66,female,no,no,no,Yes,Yes,None,0.19,0.69,0.353333333,Absent,Absent,3,2 to 3,Geriatric Population Study,1,2,Zero
+67,male,no,no,no,No,No,None,0.59,0.05,0.45,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+84,male,yes,yes,yes,Yes,No,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+66,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+53,male,no,no,no,No,No,None,0.75,0.63,1.053333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,None,0.61,-0.403333333,0.12,Absent,Present,2,2 to 3,Neuroimaging Study,2,3,Zero
+68,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,No,Smoker,-0.183333333,-0.9,-0.645,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+71,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+79,male,no,no,yes,No,Yes,None,-1.27,-0.95,-0.986666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,No,None,-0.043549388,0.188361193,0.189657486,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,Yes,Yes,None,0.601537452,0.790350148,0.835562646,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,male,no,no,yes,Yes,No,Quit,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+79,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,No,Yes,Smoker,0.48,0.22,-0.063333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,yes,No,Yes,None,0.22,1.21,0.56,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+46,female,no,no,no,No,Yes,Smoker,1.38,0.83,1.086666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,female,no,no,no,No,No,None,-0.25,0.34,-0.266666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,yes,No,No,Quit,0.55,-0.61,0.09,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,Yes,Yes,Quit,0.25,1.1,0.163333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,female,no,no,yes,Yes,Yes,None,0.4,0.15,0.09,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,male,no,no,yes,No,Yes,,0.3,-0.24,-0.023333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,None,-1.446666667,-1.426666667,-1.254,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+61,male,no,no,no,Yes,No,None,-0.17,-0.4,-0.08,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,female,no,no,no,No,No,Quit,-0.385508659,0.588130189,0.079006394,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+89,female,no,no,no,No,Yes,None,-0.13,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,No,None,-1.15,-0.85,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+55,male,no,no,yes,No,Yes,Smoker,0.63,-0.46,0.396666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+80,female,no,no,yes,Yes,Yes,Smoker,-0.64,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,Yes,Yes,None,-1.22,-0.53,-0.933333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,Quit,0.113333333,-0.016666667,0.122,Present,Present,2,2 to 3,Neuroimaging Study,2,6,>5
+62,female,no,no,no,Yes,Yes,None,0.53,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+50,male,no,no,no,No,No,Quit,0.55,1.39,0.833333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,0.34,0.01,-0.086666667,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+63,male,no,no,yes,Yes,Yes,Quit,0.3,-1.4,-0.08,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+87,female,no,no,no,Yes,Yes,None,-1.066666667,-1.21,-0.765,Present,Present,2,2 to 3,Neuroimaging Study,3,5,3 to 5
+54,female,no,no,no,No,Yes,None,0.36,1.4,0.493333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,No,Yes,None,0.59,-0.74,0.35,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,male,no,no,no,Yes,Yes,None,0.72,-0.39,0.22,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,0.79,-0.1,0.646666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,female,no,no,no,No,No,None,0.44,0.82,0.453333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+65,female,no,no,yes,Yes,Yes,None,-1.093333333,-1.933333333,-1.038,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+53,female,no,no,no,No,Yes,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,male,no,no,no,Yes,Yes,Smoker,0.27,0.86,0.68,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+61,female,no,no,no,Yes,Yes,Quit,0.01,0.25,0.043333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,-1.88,-0.34,-0.783333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,No,Yes,Quit,0.52,0.46,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,female,no,no,no,Yes,Yes,Smoker,0.91,0.27,0.223333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+54,female,no,no,no,No,Yes,Quit,0.662809,0.771805086,0.341144687,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,male,yes,yes,yes,Yes,Yes,None,-2.503333333,-2.665,-2.31375,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+62,male,no,no,yes,Yes,No,Quit,-0.949384882,-0.723535374,-0.603094333,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+72,male,no,no,no,Yes,Yes,None,0.28,0.06,0.56,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,female,no,no,no,Yes,Yes,Smoker,0.05,-0.19,-0.173333333,Absent,Present,3,2 to 3,ASPS Family Study,2,3,Zero
+52,female,no,no,no,No,No,Smoker,0.77,0.75,0.156666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,no,no,yes,Yes,No,None,0.48,-0.08,0.19,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,female,no,no,no,Yes,Yes,None,0.04,1.35,0.42,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,No,Yes,None,0.629441464,0.211074187,0.481490749,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,male,no,no,no,Yes,Yes,None,0.4,1.44,1.053333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,male,no,no,no,Yes,No,Smoker,-1.030140531,-0.810483748,-0.645678184,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,male,no,no,no,No,Yes,None,0.48,1.42,1.33,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+67,female,no,no,no,Yes,Yes,None,0.69,0.45,1.23,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,0.37,0.13,0.353333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,No,Yes,None,0.04,0.53,0.53,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,yes,Yes,No,None,0.25,0.77,0.323333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+75,male,no,no,no,Yes,No,Smoker,-0.93,-1,-1.13,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,male,no,no,no,No,Yes,None,0.07,0.2,0.173333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,female,no,no,no,No,Yes,None,0.26,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+59,male,no,no,no,Yes,Yes,Quit,0.46,0.84,0.006666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,0.33,1.23,0.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,-1.15,-1.24,-1.223333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,-0.06,0.17,0.07,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+55,male,no,no,no,Yes,Yes,None,0.16,1.44,0.896666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+54,male,no,no,no,No,Yes,None,0.84,1.11,1.346666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+52,female,no,no,no,No,No,Quit,0.726384405,0.799434516,1.044209283,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,no,no,no,Yes,Yes,None,-0.09,-0.65,-0.316666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,No,No,Quit,-0.13,1.7,0.583333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+50,male,no,no,no,Yes,Yes,Quit,-1.603333333,-1.63,-1.395,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+76,female,yes,yes,no,Yes,Yes,None,-3.68,-0.16,-1.68,Absent,Absent,3,2 to 3,Geriatric Population Study,1,2,Zero
+52,male,no,no,no,No,Yes,None,0.2,0.63,-0.15,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,No,Yes,None,-0.47,0.35,-0.153333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+47,male,no,no,no,No,No,Smoker,0.13,1.47,0.953333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+49,female,no,no,no,Yes,No,Quit,0.15,1.05,0.22,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+73,female,no,no,no,Yes,No,Smoker,0.05,-0.27,-0.013333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+61,male,no,no,no,Yes,Yes,Quit,0.44,0.07,0.38,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,No,Yes,None,0.19,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,male,no,no,no,Yes,No,Quit,-0.38,-0.1,-0.45,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,no,Yes,Yes,None,0.14,-0.9,-0.45,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,male,no,no,no,No,Yes,Quit,0.05,-0.24,0.276666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+57,male,no,no,no,No,No,None,0.55,1.1,0.94,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,No,No,Quit,0.18,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,female,no,no,yes,No,Yes,Quit,0.62,0.81,0.666666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,Yes,Yes,None,0.77,1.59,1.28,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+74,male,no,no,no,Yes,Yes,Smoker,0.244198566,0.341962892,0.220136208,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+51,male,no,no,no,Yes,No,None,0.456544892,0.936116757,0.830315963,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,No,Yes,None,0.21,-0.85,-0.306666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,No,No,Quit,-0.8752492,-1.009499799,-1.135591431,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,No,Yes,Quit,-1.53,0.28,-0.713333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,female,no,no,no,Yes,Yes,None,0.33,-0.44,-0.18,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,Yes,None,-0.234087821,-0.979192211,-0.83908706,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+59,male,no,no,no,No,Yes,None,-0.35,0.4,-0.053333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,No,Yes,Quit,1.043787606,1.702436336,1.34360232,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+72,female,no,no,yes,Yes,Yes,None,-0.02,-0.24,-0.486666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+69,female,no,no,no,No,Yes,Quit,-0.35,0.17,-0.206666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,yes,Yes,No,Quit,-0.56,0.73,-0.266666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+52,male,no,no,no,Yes,Yes,Smoker,-2.403333333,-1.29,-1.287,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+77,female,yes,yes,no,Yes,No,Quit,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+70,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+69,female,no,no,no,No,No,Quit,0.405358511,0.609906331,0.440828416,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,female,no,no,no,No,No,Quit,0.558721985,0.452593303,0.414347815,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+73,female,yes,yes,no,Yes,Yes,None,-0.27,-0.56,-0.703333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,None,-0.14,0.87,0.086666667,Absent,Present,3,2 to 3,ASPS Family Study,2,3,Zero
+52,male,no,no,no,No,Yes,Smoker,0.68,0.04,0.273333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+54,male,no,no,no,Yes,Yes,Smoker,0.18,0.34,0.073333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,male,no,no,yes,Yes,Yes,None,-2.43,-1.31,-1.443333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,No,Quit,1.191623487,-0.277424022,0.434314832,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+86,female,,yes,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+79,male,no,no,no,Yes,Yes,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,No,Yes,None,-0.05,0.73,0.006666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,Quit,0.513333333,0.93,0.568,Absent,Absent,3,2 to 3,Neuroimaging Study,1,3,Zero
+80,male,no,no,yes,Yes,No,None,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,male,no,no,no,No,No,None,0.55,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,None,0.03,-0.7,-0.446666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,-0.76,-0.32,-0.506666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,yes,Yes,Yes,None,,-1.17,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+77,female,no,no,no,Yes,Yes,,0.28,-1.41,-0.7,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+61,male,no,no,no,Yes,No,None,-0.146802543,0.523727088,-0.008198518,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,Yes,Yes,Smoker,-0.28,-0.01,-0.246666667,Absent,Present,3,2 to 3,ASPS Family Study,2,3,Zero
+58,male,no,no,no,No,Yes,Smoker,0.48,1.33,0.356666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,no,no,no,No,Yes,None,,-1.16,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,Yes,Quit,0.37,0.68,0.51,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+77,female,no,no,yes,Yes,Yes,Smoker,0,-0.78,-0.343333333,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+57,male,no,no,no,Yes,No,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+64,male,no,no,no,No,Yes,Quit,0.558785968,1.229815128,0.36326188,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+77,female,no,no,no,Yes,Yes,None,0.18,0.44,0.14,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+72,male,no,no,yes,Yes,Yes,Quit,0.039247975,0.306928205,0.112393645,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+65,female,no,no,no,No,Yes,None,0.58,0.71,0.786666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,0.31,-0.66,-0.286666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,No,None,-0.716580244,-0.488580234,-0.533281737,Present,Present,3,2 to 3,Cerebrovascular Study,3,7,>5
+58,male,no,no,no,Yes,No,None,1.522560494,1.204560174,1.141874592,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,no,no,no,Yes,No,None,0.71,0.29,0.443333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,Yes,None,-0.71,-0.64,-0.596666667,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+75,female,no,no,no,Yes,Yes,None,-0.84,-0.21,-0.61,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+54,female,no,no,no,No,No,None,0.16,0.37,0.106666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,No,Quit,0.144858721,-0.537796419,-0.173442438,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+81,female,no,no,no,Yes,No,Quit,-0.464472536,-0.094955297,-0.227600372,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+70,male,no,no,no,Yes,No,Quit,-0.148250168,0.412916491,-0.025658055,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,male,no,no,no,No,Yes,None,0.39,-0.15,1.363333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,No,Quit,0.978016242,0.95456764,0.919847688,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,Yes,None,-0.126666667,-0.31,0.097,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+53,male,no,no,no,No,Yes,Quit,-0.133034964,0.498508088,0.196341459,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,female,no,no,no,No,Yes,Quit,0.6,-1.03,-0.47,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+51,male,no,no,no,No,No,None,0.05,1.39,0.82,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,Yes,Yes,None,-0.92145599,-0.921594696,-0.673071173,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+72,male,no,no,yes,Yes,No,Quit,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+64,male,no,no,no,Yes,Yes,Quit,-0.38,-1.11,-0.526666667,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+61,male,no,no,no,Yes,No,None,0.563845934,0.067432764,-0.038754703,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,no,Yes,Yes,None,0.05,-1.51,-0.606666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,male,no,no,no,Yes,Yes,None,-1.48,-1.65,-1.393333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,no,No,No,Smoker,-0.502273041,-0.323757019,-0.338322619,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,yes,yes,yes,Yes,Yes,None,-1.97,-1.04,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+59,male,no,no,no,Yes,Yes,None,-0.12,0.57,0.156666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,female,no,no,no,No,No,None,-2.4,0.48,-0.936666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+56,male,no,no,yes,No,Yes,None,-1.78,-0.86,-0.923333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+50,female,no,no,no,No,No,None,0.72,0.27,0.286666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,Yes,Quit,0.55,,,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+69,female,no,no,no,No,Yes,None,0.12,-0.41,-0.496666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,-0.05,1.15,0.22,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+73,female,no,no,no,Yes,Yes,Quit,-1.69,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,No,None,-0.07,-0.12,-0.08,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+48,female,no,no,no,No,No,Quit,0.31,0.91,0.8,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+54,female,no,no,no,Yes,No,None,0.038987411,0.630933797,0.658050321,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+56,male,no,no,no,Yes,Yes,Smoker,-0.36,0.67,0.39,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,No,Yes,None,0.14,-0.33,-0.03,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+55,male,no,no,no,Yes,No,Quit,0.758561,0.64067718,0.595741505,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,male,no,no,no,No,No,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+63,male,no,no,no,Yes,No,Smoker,0.38,0.24,0.113333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+71,female,no,no,no,Yes,Yes,None,0.28,-1.62,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,Yes,Quit,0.09,0.17,-0.083333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+74,male,no,no,no,Yes,Yes,Quit,-0.99,-0.18,-0.836666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,male,no,no,no,Yes,Yes,Quit,0.24,-0.32,-0.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,No,No,None,-0.02,-1.03,0.066666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+73,female,no,no,no,Yes,Yes,None,0.54,0.21,0.116666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,None,-1.18,-1.29,-1.123333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+65,male,no,no,yes,Yes,Yes,None,-0.06,0.19,0.253333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,None,-0.99,0.1,-0.466666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,yes,yes,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,female,no,no,no,Yes,Yes,None,0.17,-0.37,-0.033333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,female,no,no,no,Yes,Yes,Smoker,0.53,0.76,0.693333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+85,male,yes,yes,no,Yes,Yes,Quit,-1.806666667,-1.7030989,-1.03692967,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+61,male,no,no,no,Yes,Yes,Quit,-0.48,0.54,-0.303333333,Present,Present,0,0 to 1,Geriatric Population Study,2,3,3 to 5
+65,female,no,no,no,Yes,Yes,None,0.25,-0.03,0.183333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+53,male,no,no,no,No,Yes,Quit,0.75,0.46,1.05,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,no,No,No,Quit,0.714810188,-0.404337087,0.20888555,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,Yes,Yes,None,0.08,-0.45,-0.446666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+44,male,no,no,no,Yes,No,Smoker,0.34,-0.1,0.19,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+70,female,yes,yes,yes,Yes,Yes,None,-0.81,-0.32,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,No,None,-0.576286114,0.105804962,-0.171991624,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,male,no,no,no,No,Yes,None,-0.44,-0.68,-0.293333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,Yes,No,Quit,0.48,1.04,0.31,Present,Absent,2,2 to 3,Geriatric Population Study,2,2,1 to 2
+76,female,no,no,no,Yes,Yes,None,-1.35,-1.28,-1.283333333,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+55,male,no,no,no,No,No,Quit,0.868801379,0.551321797,0.890859837,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,male,no,no,no,Yes,Yes,Quit,-0.13,-1.08,-0.473333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,Yes,Smoker,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+64,female,no,no,no,Yes,Yes,Smoker,0.33,0.28,0.186666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,Yes,None,0.14,-0.04,-0.263333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,Yes,None,-0.38,0.24,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,yes,Yes,Yes,,-1.76,-2.1,-1.77,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,female,no,no,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,,yes,no,Yes,Yes,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+63,male,no,no,no,Yes,Yes,Smoker,0.26,0.02,-0.103333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,None,-1.342325674,-1.164125626,-1.07015194,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+67,female,no,no,no,Yes,Yes,None,0.69,-0.15,0.09,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+52,female,no,no,yes,Yes,Yes,Quit,-0.41044366,1.147229636,0.123256662,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,female,no,no,no,Yes,Yes,None,0.48,0.47,0.503333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,male,no,no,no,No,Yes,Smoker,0.21,0.12,0.016666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,female,no,no,no,Yes,No,Quit,1.477504536,1.801293791,1.418497064,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+77,male,no,no,no,No,No,Quit,0.691170731,0.15898958,0.492346849,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+70,male,no,no,yes,Yes,Yes,Smoker,0,-1.36,-0.523333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,No,Quit,-0.201088394,0.366258645,-0.029327585,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,no,no,no,Yes,No,None,-0.07,-1.05,-0.696666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,Yes,No,None,0.46,0.04,0.203333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,male,no,no,yes,No,No,None,-0.23,0.17,0.116666667,Present,Absent,0,0 to 1,Geriatric Population Study,,,1 to 2
+60,female,no,no,no,Yes,Yes,None,0.84,0.94,1.29,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,Yes,None,0.06,0.03,-0.14,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+89,male,yes,yes,no,Yes,Yes,Quit,-2.116666667,-1.98,-1.613,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+67,female,no,no,no,Yes,No,None,-0.04,-0.29,-0.383333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+61,female,no,no,no,No,Yes,None,0.56,0.28,0.72,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,yes,Yes,Yes,None,-0.01,-0.54,-0.556666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,Quit,0.29,0.65,0.59,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,female,no,no,no,Yes,Yes,Quit,0.352221109,-0.505171581,0.102780714,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+78,male,yes,yes,no,No,No,Quit,0.165675934,0.35052367,-0.31515625,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+52,female,no,no,no,No,Yes,Smoker,0.28,0.84,0.33,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+59,male,no,no,no,Yes,Yes,Quit,0.846666667,-0.0851151,0.49346547,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+68,female,no,no,no,Yes,Yes,None,-1.15,0.85,-0.22,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+66,female,no,no,no,Yes,Yes,None,-0.873248204,-0.89559092,-0.864905224,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+72,female,no,no,yes,Yes,No,None,-1.11,-0.2,-0.683333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+69,male,no,no,no,Yes,Yes,Quit,0.08,-0.14,0.09,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,female,no,no,no,No,Yes,Smoker,-0.07,0.88,-0.13,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,no,No,Yes,None,0.14,-1.17,0.25,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+71,male,no,no,yes,Yes,Yes,None,-1.963333333,-1.87,-1.567,Present,Absent,2,2 to 3,Neuroimaging Study,2,4,3 to 5
+75,male,yes,yes,yes,Yes,Yes,None,-2.496666667,-1.4578287,-1.468207175,Present,Absent,1,0 to 1,Neuroimaging Study,1,3,3 to 5
+69,male,no,no,no,Yes,Yes,Quit,-0.35,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+72,female,no,no,no,No,No,Quit,-0.59130101,0.045542954,-0.372023057,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,male,no,no,no,Yes,No,None,0.684440395,0.454302276,0.991288844,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,male,no,no,no,Yes,Yes,Smoker,-0.89,-0.38,-0.773333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,No,None,-0.1,-1.7,-0.973333333,Present,Present,3,2 to 3,ASPS Family Study,3,6,>5
+56,male,no,no,no,Yes,No,Smoker,0.511700187,0.115686135,0.11654458,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+68,female,no,no,no,Yes,Yes,Quit,-0.841469973,-0.840220097,-0.853935053,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+67,male,no,no,no,Yes,Yes,Quit,-1.08,-1.026666667,-0.73,Present,Absent,2,2 to 3,Neuroimaging Study,1,3,1 to 2
+66,male,no,no,no,Yes,Yes,Quit,-0.090191041,-0.506886432,-0.374036975,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,male,no,no,no,No,Yes,None,0.67,0.59,1.09,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+71,male,yes,yes,no,Yes,Yes,Quit,0.796666667,-1.67,0.121,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+77,female,no,no,no,Yes,Yes,None,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+70,male,no,no,yes,Yes,Yes,Quit,-1.47,-0.9,-1.063333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,yes,Yes,Yes,None,-0.813333333,-1.203333333,-0.239,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+73,male,no,no,no,Yes,Yes,Quit,-2.23,-0.65,-1.34,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,male,no,no,no,No,No,Quit,-0.43,2.73,0.883333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,no,no,no,No,Yes,Quit,0.26,-0.32,0.17,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+78,female,no,no,no,Yes,Yes,None,-0.59,-0.9,-0.843333333,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+57,female,no,no,no,No,Yes,Quit,0.97,1.37,0.993333333,Present,Absent,1,0 to 1,Geriatric Population Study,,,3 to 5
+77,female,no,no,no,Yes,Yes,None,-0.21,-0.41,-0.353333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+76,male,no,no,no,No,No,None,0.22,-0.66,-0.086666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+76,male,no,no,no,Yes,Yes,Smoker,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+68,female,no,no,no,No,Yes,Quit,-0.44,-0.91,-0.746666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+55,female,no,no,no,No,Yes,None,0.7,1.21,1.486666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+61,male,no,no,yes,Yes,No,None,-0.76,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,Yes,Smoker,0.05,0.33,0.173333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,No,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,no,no,no,Yes,Yes,Quit,0.76,-0.34,0.326666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,No,Yes,Quit,0.68,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+58,female,no,no,no,No,No,Quit,0.639262844,1.761103964,0.949045526,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,male,yes,yes,no,Yes,Yes,Smoker,-2.226666667,-1.41,-1.424,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+76,female,no,no,no,No,No,Quit,-0.685073628,-0.017981073,-0.409019097,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+75,female,no,no,no,No,No,None,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+70,female,no,no,no,No,Yes,Quit,0.64,0.68,1.013333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,female,no,no,no,Yes,Yes,None,-0.13,-0.41,-0.4,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+71,female,no,no,no,Yes,Yes,None,-0.84,-0.61,-0.89,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,No,Yes,Quit,0.55,0.84,1.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,female,no,no,no,No,No,None,0.489031086,0.377458553,0.749753238,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+75,female,yes,yes,no,Yes,No,None,-0.545429789,-0.61457077,-0.830183952,Present,Absent,2,2 to 3,Cerebrovascular Study,2,4,3 to 5
+60,female,no,no,no,Yes,Yes,Quit,0.32,-0.11,0.373333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,female,yes,yes,no,Yes,Yes,None,-0.34,-0.03,-0.456666667,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+77,female,yes,yes,yes,Yes,Yes,None,0.22,-0.84,-0.276666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+61,male,no,no,no,No,Yes,None,0.19,0.71,0.333333333,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+58,female,no,no,no,No,No,Quit,-0.20498998,-0.414372421,-0.336551661,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,male,no,no,no,No,Yes,Quit,0.46,0.96,0.61,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+71,male,no,no,yes,Yes,Yes,Quit,-1.756395299,-0.831468611,-1.171598449,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+66,female,no,no,no,Yes,No,None,-0.381060003,-0.134848348,-0.331228018,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+81,female,no,no,no,No,Yes,None,-1.686666667,-1.820212833,-1.33606385,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+60,male,no,no,no,No,Yes,Quit,0.59,0.56,0.57,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,No,Yes,None,-0.11,-1.16,-0.603333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+69,male,no,no,no,Yes,No,Smoker,-1.123333333,-1.673333333,-1.081,Present,Present,2,2 to 3,Neuroimaging Study,2,5,3 to 5
+79,female,no,no,no,Yes,Yes,None,-0.29,-1.33,-0.49,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+67,male,no,no,yes,Yes,Yes,Smoker,0.66,-0.29,-0.073333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,Yes,Yes,Quit,0,,,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+65,male,no,no,no,Yes,Yes,Quit,0.16,-0.79,0.003333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+69,male,no,no,no,No,Yes,None,0.52,-0.55,0.52,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,no,No,Yes,Quit,0.46,0.39,0.19,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+54,female,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,Yes,Yes,Quit,-0.578686229,-0.256714687,-0.458065458,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,yes,yes,yes,Yes,No,Smoker,-0.76,-0.93,-0.656666667,Present,Present,1,0 to 1,ASPS Family Study,2,2,1 to 2
+76,male,no,no,no,No,Yes,Smoker,0.22,0.133333333,0.446,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+64,male,no,no,no,Yes,Yes,Quit,-0.02,0.74,0.043333333,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+53,male,no,no,no,No,Yes,None,0.63,1.12,1,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,yes,Yes,Yes,Quit,-1.015229195,-1.086582068,-0.853203416,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,female,no,no,no,Yes,Yes,Quit,0.54,0.6,0.31,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+81,female,,yes,no,No,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,Yes,Yes,Quit,-0.633205964,-0.005485643,-0.23460183,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,male,yes,yes,yes,Yes,No,Quit,-2.016533641,-2.122117169,-1.796402475,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+69,female,no,no,no,Yes,No,Quit,0.51,-0.21,0.463333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,Yes,No,Quit,-0.02,1.59,0.276666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+77,male,no,no,no,Yes,Yes,Quit,-0.35,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+46,male,yes,yes,no,Yes,Yes,Smoker,-1.413333333,-1.93,-1.103,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+78,male,no,no,no,No,Yes,None,-1.513333333,-1.086124233,-0.62883727,Present,Absent,0,0 to 1,Neuroimaging Study,1,1,1 to 2
+51,female,no,no,no,No,No,Smoker,1.15,0.46,0.943333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,male,no,no,no,Yes,No,None,-0.19,-0.03,-0.166666667,Present,Absent,0,0 to 1,Geriatric Population Study,,,1 to 2
+51,female,no,no,no,No,Yes,Smoker,-0.143847725,0.696647766,0.086392132,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,male,no,no,yes,Yes,Yes,None,0.26,0.24,0.123333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+65,female,no,no,no,No,No,None,0.44,-1.47,-0.54,Present,Absent,1,0 to 1,Geriatric Population Study,,,1 to 2
+65,male,no,no,yes,Yes,No,Quit,-0.15,-0.02,-0.176666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+72,female,yes,yes,no,Yes,Yes,None,-0.49,-0.54,-0.586666667,Present,Absent,2,2 to 3,ASPS Family Study,2,4,>5
+71,female,no,no,no,Yes,Yes,None,0.37,-0.24,0.126666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,No,None,-3.06,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,No,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+87,male,no,no,no,Yes,Yes,Smoker,-1.796666667,0.53,-0.584444444,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+54,male,no,no,no,No,Yes,Quit,0.244017547,0.121452992,0.496491301,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+65,male,no,no,no,Yes,Yes,Quit,0.18,0.41,0.233333333,Absent,Present,3,2 to 3,ASPS Family Study,2,3,Zero
+60,female,no,no,no,No,No,Quit,0.556814037,0.728140302,0.461131644,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+68,male,no,no,no,Yes,No,Quit,,0.8,,Absent,Present,3,2 to 3,Geriatric Population Study,2,3,Zero
+72,female,no,no,yes,Yes,Yes,Quit,-0.62,-1.13,-1.033333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,None,-0.72,-1.28,-0.836666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,Quit,0.026166889,0.497299835,0.098160812,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,Yes,No,Quit,-0.068571724,-0.150520531,-0.184166867,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+58,male,no,no,no,No,Yes,Smoker,-0.93,-0.293333333,-0.323,Present,Absent,3,2 to 3,Neuroimaging Study,2,6,>5
+64,male,no,no,no,No,Yes,Quit,0.46,-0.06,0.42,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Quit,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+49,female,no,no,no,No,No,None,0.71,1.82,0.913333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+61,female,no,no,no,No,No,Smoker,-0.55,0.22,-0.086666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+45,male,no,no,no,No,No,None,0.32,1.02,1.073333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,no,Yes,Yes,None,0.56,0.09,0.3,Present,Absent,1,0 to 1,Geriatric Population Study,1,1,1 to 2
+55,male,no,no,no,No,No,None,0.469159939,0.226659566,-0.032824641,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+80,female,no,no,no,Yes,Yes,None,-1.26,-1.98,-1.53,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+73,female,no,no,no,Yes,Yes,None,0.71,0.07,-0.04,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,No,Quit,0.226996671,0.32832917,0.193470208,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+62,male,no,no,no,No,Yes,None,0.19,0.51,0.393333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+66,female,no,no,no,Yes,Yes,None,0.25,-1.25,-0.23,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+77,female,no,no,no,Yes,Yes,None,-2.086666667,-1.776666667,-1.492,Present,Absent,2,2 to 3,Neuroimaging Study,2,4,3 to 5
+80,female,yes,yes,yes,No,Yes,None,-1.02,,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+68,male,no,no,no,No,Yes,None,0.16,0.22,0.11,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,female,no,no,no,Yes,Yes,Smoker,-2.08,-1.35,-1.516666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+69,female,no,no,no,No,Yes,None,-0.63,0.3,-0.34,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+45,male,no,no,no,Yes,Yes,Quit,1.11,0.85,1.083333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+72,female,no,no,no,Yes,Yes,None,0.42,0.04,0.44,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+76,female,no,no,no,Yes,No,None,-0.21,-1.04,-0.48,Present,Absent,2,2 to 3,ASPS Family Study,2,4,>5
+77,female,no,no,no,Yes,Yes,None,0.22,-0.07,-0.156666667,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+75,female,no,no,no,Yes,No,Quit,0.74,0.26,0.423333333,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+72,female,no,no,no,Yes,Yes,None,0.41,-0.32,0.013333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+51,female,no,no,no,No,No,None,0.36,0.96,0.396666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,Yes,Yes,None,0.24,0.66,0.206666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,No,None,-0.44,-0.89,-0.32,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,female,no,no,no,No,No,Quit,-1.201886554,-1.536478469,-1.341320614,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+70,female,no,no,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,female,no,no,no,No,No,None,0.345287464,1.890037124,1.167141628,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+79,female,no,no,no,Yes,Yes,None,-1.45,-1.61,-1.47,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+47,male,no,no,no,No,No,Quit,1.08,0.93,1.16,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+56,female,no,no,no,No,Yes,None,0.78,0.45,0.876666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+75,female,no,no,no,No,Yes,None,0.39,-0.27,0.073333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,yes,Yes,No,None,-0.36,-1.41,-0.91,Present,Present,2,2 to 3,ASPS Family Study,3,3,1 to 2
+64,male,no,no,no,Yes,Yes,Smoker,-0.25,-0.4,-0.53,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+45,male,no,no,no,Yes,Yes,None,0.89,0.49,0.443333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+63,female,yes,yes,no,Yes,Yes,None,-0.18,0.12,-0.19,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,female,no,no,yes,Yes,Yes,None,-0.41,-0.923333333,-0.454,Present,Present,2,2 to 3,Neuroimaging Study,2,4,1 to 2
+62,female,no,no,no,Yes,No,Smoker,0.7,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,female,no,no,no,No,Yes,None,0.3,0.31,-0.026666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,yes,No,Yes,Quit,-0.763333333,-0.123333333,-0.364,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+78,male,no,no,no,Yes,No,None,-0.79,0.24,-0.583333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,Yes,None,0.19,,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,No,Smoker,0.580617805,0.251247367,0.671580245,Absent,Present,2,2 to 3,Cerebrovascular Study,2,3,Zero
+56,male,no,no,no,Yes,Yes,Quit,0.976219485,-0.09783812,0.730018081,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+73,female,no,no,no,Yes,Yes,None,0.4,-0.73,-0.356666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+75,female,no,no,no,No,Yes,Smoker,0.13,-0.4,-0.386666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,male,,yes,no,No,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+67,male,no,no,no,Yes,No,None,0.79,1.66,1.13,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+69,male,no,no,no,Yes,Yes,Quit,1.170526324,0.510827535,0.59438096,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+77,female,no,no,no,No,Yes,None,-1.22,-1.08,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,female,no,no,no,Yes,Yes,None,-1.15,-1.16,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,No,None,-0.12,0.15,-0.056666667,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+61,female,no,no,no,No,Yes,Smoker,0.4,-0.06,-0.106666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,Yes,Quit,-0.149182238,-0.715250618,-0.547018446,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,female,no,no,no,Yes,Yes,None,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+53,male,no,no,no,No,Yes,Quit,0.19,0.03,0.59,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+68,female,no,no,no,Yes,No,None,0.65,-0.61,0.58,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+67,male,no,no,no,No,No,Quit,0.13,0.6,0.87,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+47,male,no,no,no,Yes,Yes,Quit,0.51,0.54,0.393333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+48,female,no,no,no,No,Yes,None,0.85,0.3,0.203333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,male,no,no,no,Yes,Yes,None,-0.168125109,0.357546629,-0.026162424,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+64,male,no,no,no,Yes,Yes,None,0.75,0.16,1.176666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,yes,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+59,female,no,no,no,Yes,No,Quit,0.592528818,0.877120985,0.80433551,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+62,female,no,no,no,No,Yes,None,0.37,-0.19,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+49,female,no,no,no,Yes,Yes,Smoker,0.04,-0.18,-0.126666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+76,male,no,no,no,Yes,Yes,Quit,-0.43,-0.47,-0.39,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+75,female,no,no,no,Yes,Yes,Quit,0.2,0.86,0.436666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+47,male,no,no,no,No,Yes,Quit,0.38,0.44,0.46,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,No,Yes,None,0.65,1.02,1.073333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,male,no,no,no,No,Yes,Quit,-1.136666667,-1.45,-0.796,Present,Absent,2,2 to 3,Neuroimaging Study,2,5,>5
+74,female,no,no,no,Yes,Yes,Quit,-1.42,-0.053333333,-0.582,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+66,female,no,no,no,Yes,Yes,Smoker,0.21,0.21,0.453333333,Present,Absent,3,2 to 3,Geriatric Population Study,,,1 to 2
+72,male,no,no,no,Yes,Yes,Quit,0.44,0.14,0.613333333,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+81,female,no,no,no,No,Yes,None,-1.18,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+57,female,no,no,yes,Yes,Yes,None,-0.15,-0.38,0.01,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,female,no,no,yes,No,Yes,None,0.51,2,0.946666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+59,female,no,no,no,No,Yes,None,-0.304972091,-0.571188217,-0.579350522,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,male,no,no,no,No,Yes,Quit,0.49,0.82,0.75,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+67,female,no,no,no,Yes,Yes,None,0.31,0.15,0.67,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+59,female,no,no,no,Yes,Yes,Smoker,-0.733822514,-0.572022131,-0.581890058,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+72,male,no,no,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,female,no,no,no,No,Yes,None,0.27,1.41,0.67,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+70,male,no,no,yes,Yes,Yes,Quit,-0.053069756,-0.705154017,-0.474776497,Present,Present,3,2 to 3,Cerebrovascular Study,3,7,>5
+70,female,no,no,no,Yes,No,Smoker,-0.641360244,-1.010339526,-0.749914237,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+55,male,no,no,no,Yes,No,Quit,0.29869352,0.960893591,0.64878358,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,Yes,No,None,,0.85,,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+55,male,no,no,no,Yes,No,Smoker,-0.7,0.17,-0.073333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+58,female,no,no,no,No,No,None,-0.009422328,0.509828125,0.384051619,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,male,no,no,no,No,No,Quit,,,,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+57,female,,yes,yes,Yes,Yes,Smoker,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+51,female,no,no,no,Yes,Yes,Quit,1.1,1.65,0.696666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,female,no,no,no,Yes,Yes,None,-1.001349405,-0.938289102,-0.837645792,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,female,no,no,no,Yes,Yes,Quit,-0.736867803,-1.261587555,-1.145217569,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+77,female,no,no,yes,Yes,No,None,-0.34,-0.27,-0.496666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,male,no,no,no,Yes,No,Smoker,0.51,0.46,-0.103333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,no,Yes,No,None,-0.126063685,0.030161257,0.167924248,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+63,female,no,no,no,No,Yes,None,-0.44,-0.64,-0.653333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+63,male,no,no,no,Yes,No,Smoker,-1.627434662,-1.194651801,-1.317216356,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,male,no,no,yes,Yes,Yes,Quit,-0.638775689,-0.819972413,-0.863503902,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,female,,yes,no,No,Yes,Quit,-1.060568693,0.240101517,-0.448823861,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+61,female,no,no,no,Yes,Yes,Quit,0.275834958,1.294561919,0.670039485,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+81,male,yes,yes,no,Yes,Yes,None,-1.913333333,-1.863333333,-1.516,Present,Absent,2,2 to 3,Neuroimaging Study,1,3,1 to 2
+72,female,no,no,no,No,Yes,Quit,0.76,0.57,0.63,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,Yes,Quit,0.7,-0.26,0.306666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,No,None,0.48,-0.34,-0.02,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,yes,Yes,Yes,None,0.28,-1.32,-0.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,No,Quit,0.31,0.34,0.096666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,No,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,no,no,no,Yes,Yes,Quit,0.24,-0.11,-0.003333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,female,no,no,no,Yes,Yes,None,0.36,-0.17,0.173333333,Present,Absent,3,2 to 3,Geriatric Population Study,,,1 to 2
+74,male,no,no,no,Yes,Yes,Quit,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,4,3 to 5
+77,female,no,no,no,Yes,Yes,None,-0.37,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+56,male,no,no,no,No,No,Smoker,0.192431049,-0.009889705,0.261096435,Absent,Present,0,0 to 1,Cerebrovascular Study,1,1,Zero
+71,male,no,no,no,No,No,Quit,0.784756485,0.64836722,0.588561246,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+72,male,no,no,no,No,Yes,None,0.07,-0.04,0.196666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,yes,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,4,3 to 5
+72,female,no,no,no,Yes,Yes,None,-0.13,0.2,-0.173333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+58,female,no,no,no,Yes,Yes,Smoker,-0.413850021,0.468978253,-0.036253269,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,yes,yes,no,No,No,Smoker,0.11,-0.92,-0.656666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+52,female,no,no,no,No,No,None,0.293554138,0.360212716,0.344783814,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,male,no,no,no,No,No,None,1.070859142,-0.608962806,-0.014943953,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,male,no,no,no,Yes,Yes,Quit,0.84,0.51,1.156666667,Present,Absent,2,2 to 3,ASPS Family Study,2,2,1 to 2
+58,male,no,no,no,No,Yes,None,0.9,0.94,0.646666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,0.32,-0.78,-0.246666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,female,no,no,no,Yes,Yes,None,0.22,-0.09,-0.253333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+59,male,no,no,yes,No,No,Quit,0.28,-0.12,0.316666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,no,Yes,Yes,None,-1.087565005,-0.654776701,-0.499428867,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,No,Yes,None,0.27,0.54,-0.08,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+84,male,no,no,yes,Yes,No,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+59,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,no,no,no,Yes,Yes,None,0.34,-0.32,0.066666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+62,male,no,no,yes,Yes,Yes,Quit,0.84,1.6,1.663333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+52,female,no,no,no,Yes,Yes,Smoker,0.89,0.94,0.413333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,male,no,no,no,Yes,No,None,-0.08,-2.01,-0.986666667,Present,Present,3,2 to 3,ASPS Family Study,3,6,>5
+64,female,no,no,no,No,Yes,None,0.71,0.5,0.563333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,No,None,-0.86,-0.75,-0.426666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,No,Yes,Smoker,0.43,1.06,0.48,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,No,None,0.51,0.8,0.516666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,yes,No,Yes,Smoker,-0.33529043,0.070884187,0.055687217,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+61,female,no,no,no,Yes,Yes,None,0.01,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,Yes,Yes,Quit,0.509105374,0.034403928,-0.069721189,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+54,male,no,no,no,No,Yes,Smoker,0.53,0.99,1.56,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+60,female,no,no,no,No,Yes,None,-0.15,-0.98,-0.226666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,female,yes,yes,no,Yes,Yes,None,-1.716666667,-2.33,-1.126666667,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+64,male,no,no,no,No,No,None,-2.22,0.69,-0.58,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+56,female,no,no,no,Yes,No,Quit,1.460900496,0.767036859,0.817967455,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,female,no,no,no,Yes,Yes,None,-0.25,-0.98,-0.783333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+67,female,no,no,yes,Yes,Yes,Smoker,0.05,0.063333333,0.059,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+63,male,no,no,no,No,Yes,Smoker,-1.41,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+61,female,no,no,no,Yes,No,Quit,0.452670567,1.155499208,1.321301243,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+69,female,no,no,no,No,Yes,None,0.04,0.22,-0.06,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+64,male,no,no,no,No,Yes,None,-0.07,0.73,0.28,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,Yes,Quit,-0.303333333,0.043333333,-0.092,Absent,Absent,2,2 to 3,Neuroimaging Study,0,2,Zero
+51,female,no,no,no,No,Yes,Quit,0.92,2.14,1.206666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,No,Quit,0.806321749,0.269539212,0.562591372,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,female,no,no,no,Yes,Yes,Quit,0.35,-0.39,-0.03,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,yes,yes,yes,Yes,Yes,Smoker,0.19,-0.32,-0.086666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,0.13,0.77,0.23,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+44,male,no,no,no,Yes,Yes,Smoker,0.75,1.02,0.54,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,None,0.75,0.47,0.21,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,no,no,no,Yes,Yes,Quit,0.47,0.19,0.126666667,Absent,Present,2,2 to 3,Geriatric Population Study,2,2,Zero
+70,male,no,no,no,No,Yes,Quit,-0.86,0.23,-0.356666667,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,No,Yes,Quit,0.03,0.51,0.186666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+74,female,no,no,yes,Yes,Yes,None,-2.09,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+56,male,no,no,no,Yes,No,Quit,0.028524446,0.000125371,0.159084459,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,No,Quit,0.394515293,0.046613604,0.291800849,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+82,male,no,no,no,Yes,Yes,None,-1.27,-1.42,-1.35,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+78,male,no,no,no,Yes,No,None,-1.26,-1.02,-1.263333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,None,0.07,0.43,0.006666667,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+70,female,no,no,no,No,Yes,None,-0.34,0.26,0.05,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+62,male,no,no,no,No,No,None,0.54,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,male,no,no,no,No,Yes,None,0.89,1.37,0.79,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+55,male,no,no,no,Yes,Yes,Quit,0.82267796,0.355811479,0.319812868,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,no,Yes,Yes,None,0.478807973,-0.786976853,-0.045575653,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+73,female,no,no,no,No,Yes,None,0.57,-0.59,0.51,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,Smoker,0.32,0.92,0.243333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+69,female,no,no,yes,Yes,Yes,Smoker,-0.51,0.22,-0.19,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+65,male,no,no,yes,Yes,Yes,Quit,0.196750337,-0.944391963,-0.607633276,Present,Absent,3,2 to 3,Cerebrovascular Study,2,5,3 to 5
+60,female,no,no,no,Yes,No,None,,,,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+75,female,no,no,no,Yes,No,Quit,0.32,-0.63,-0.17,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,Quit,-0.440767687,-0.519313441,-0.482035394,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+76,male,no,no,no,Yes,No,None,0.938961496,-0.11901052,0.567500456,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+62,female,no,no,no,No,Yes,None,0.44,-0.52,-0.043333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,Yes,Yes,Quit,0.732193132,-0.790907172,-0.381504135,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+55,male,no,no,no,Yes,No,Smoker,0.23,0.49,0.183333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+61,male,yes,yes,no,Yes,Yes,Smoker,0.634304617,1.172263908,0.584331007,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,Yes,Quit,0.79427183,1.198513814,1.15979722,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+63,female,yes,yes,no,Yes,No,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+64,female,no,no,no,Yes,Yes,None,-0.32,-0.29,-0.426666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,female,no,no,no,No,Yes,Quit,0.9,1.86,1.49,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+54,male,no,no,no,Yes,Yes,None,-0.966502175,-0.906423194,-0.664279189,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,male,no,no,no,Yes,No,Smoker,,,,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+62,female,no,no,no,No,No,None,0.25,-0.18,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,No,None,0.485769517,1.09139506,0.696592268,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+79,female,yes,yes,yes,Yes,Yes,Quit,-0.58,-1.2,-0.966666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+80,female,no,no,yes,Yes,No,None,-0.96,-2.1,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+67,female,no,no,no,No,Yes,None,0.57827027,0.856784141,0.521496256,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+50,male,yes,yes,no,Yes,Yes,None,-1.073333333,-2.326666667,-1.337,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+56,female,no,no,no,Yes,Yes,None,0.81,0.31,0.56,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+68,female,no,no,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+64,male,no,no,no,No,Yes,None,0.26,0.07,0.446666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,yes,Yes,Yes,None,-0.1,0.02,-0.24,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+76,female,yes,yes,no,No,Yes,None,-0.01,-1.05,-0.56,Absent,Present,2,2 to 3,ASPS Family Study,2,2,Zero
+64,male,yes,yes,no,Yes,Yes,None,0.63,1.55,0.963333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+79,female,no,no,no,Yes,Yes,None,0.59,-0.36,0.186666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+50,female,no,no,no,No,Yes,None,0.63,0.85,0.96,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+56,male,no,no,no,Yes,No,Quit,0.757608521,0.949182609,0.714149419,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,no,no,no,No,Yes,None,0.36,0.12,0.116666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,No,Yes,Quit,-0.91,0.88,-0.536666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+83,female,yes,yes,no,Yes,Yes,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,7,>5
+68,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+50,female,no,no,no,No,No,Quit,-0.432811713,-0.218571378,-0.339838122,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+56,male,no,no,no,Yes,No,None,0.174712084,0.574351541,0.150048154,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+68,female,no,no,no,Yes,Yes,None,0.45,0.84,0.616666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+52,female,no,no,no,Yes,No,None,0.61,0.78,0.776666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,female,no,no,no,Yes,Yes,None,0.07,-1.18,-0.44,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+64,male,no,no,no,No,Yes,Quit,0.21,0.44,0.25,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,No,Quit,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+71,female,no,no,no,Yes,Yes,None,-0.09,-0.9,-0.78,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,No,Quit,0.17,0.62,0.376666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,female,no,no,no,Yes,Yes,None,-0.17,-0.93,-0.666666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+69,female,no,no,no,Yes,No,None,-1.055849515,-1.095624714,-0.86397071,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+67,male,yes,yes,no,Yes,No,Smoker,-2.783333333,-2.5,-2.2525,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+76,female,no,no,no,Yes,Yes,None,-0.29,-0.04,-0.206666667,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+78,female,no,no,no,No,Yes,None,-1.53,-0.71,-0.976666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+76,female,no,no,yes,Yes,Yes,None,-1.16,-0.88,-1.206666667,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+51,male,no,no,no,Yes,Yes,Quit,1.023044552,0.660088319,0.765745189,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+76,male,no,no,no,Yes,Yes,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+54,male,no,no,no,No,No,Quit,0.049893198,-0.245723916,-0.000542074,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+77,female,no,no,no,Yes,Yes,None,-0.93,-0.34,-0.873333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+60,female,no,no,no,Yes,Yes,Quit,0.400017771,1.012678406,0.827631522,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+80,female,no,no,no,Yes,Yes,None,-0.02,-0.44,-0.376666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,No,Quit,1.154874657,2.097093253,1.381574542,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,female,no,no,no,Yes,Yes,None,0.66,-0.6,0.013333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,female,no,no,no,Yes,Yes,None,0.17,-1.32,-0.323333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,female,no,no,no,Yes,Yes,None,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,Quit,-0.403333333,-0.753333333,-0.368,Absent,Absent,3,2 to 3,Neuroimaging Study,1,3,Zero
+65,female,no,no,no,Yes,Yes,None,-1.047387919,-1.236119951,-1.035133845,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+49,male,no,no,no,No,Yes,,0.57,0.48,1.416666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+61,male,no,no,no,Yes,Yes,Smoker,0.43,0.58,0.293333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,None,-0.07,-0.67,-0.57,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,Smoker,0.343333333,-0.093333333,0.466,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+56,female,no,no,no,Yes,Yes,None,0.16,0.04,0.05,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+52,male,no,no,no,Yes,Yes,Quit,0.18,-0.14,-0.003333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+75,male,no,no,yes,Yes,Yes,Quit,-0.02,-1.1,-0.57,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+50,male,no,no,no,Yes,Yes,Smoker,0.47,0.98,0.73,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+82,female,,yes,no,Yes,No,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+56,female,no,no,yes,Yes,Yes,Quit,-0.14,-0.13,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+78,female,,yes,no,Yes,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,female,no,no,no,Yes,Yes,None,0.05,-0.09,-0.336666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,male,no,no,no,Yes,Yes,Quit,-0.16,-0.826666667,-0.256,Absent,Present,3,2 to 3,Neuroimaging Study,2,4,Zero
+65,male,no,no,yes,Yes,Yes,Quit,0.13,0.06,-0.31,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+45,female,no,no,no,No,Yes,Smoker,0.89,0.44,0.24,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,male,no,no,no,Yes,Yes,Smoker,-0.556666667,-1.27,-0.776,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+83,male,no,no,no,Yes,Yes,Quit,-0.18,-0.59,-0.51,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,male,no,no,yes,No,Yes,Quit,0.33,-0.08,0.22,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+77,female,no,no,no,No,Yes,None,-0.42,-0.66,-0.606666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+61,male,no,no,no,Yes,Yes,Smoker,0.43,-0.37,-0.15,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+61,female,no,no,no,No,No,Quit,0.375694799,0.385036701,0.303463165,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,female,no,no,no,No,Yes,None,0.5,1.64,0.823333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+78,female,no,no,no,Yes,No,None,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+67,male,no,no,no,Yes,Yes,Quit,0.15,-0.25,0.176666667,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+56,male,no,no,no,Yes,Yes,None,-1.076666667,-0.183333333,-0.536,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+71,male,,yes,no,Yes,No,Quit,-0.282394957,-0.671073087,-0.975013562,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+68,female,no,no,no,Yes,No,None,-0.421672778,-0.50604589,-0.460772993,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+64,female,no,no,yes,Yes,No,None,-1.091191331,,-0.802370452,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+60,male,no,no,no,No,Yes,None,0.54,-0.03,0.51,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+76,male,,yes,no,Yes,No,Quit,0.028057071,0.885541858,0.044095287,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+71,female,no,no,no,Yes,Yes,None,-0.2,-1.16,-0.49,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+71,female,no,no,yes,Yes,Yes,None,0.28,-0.53,-0.1,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,No,No,Quit,0.48,-0.08,-0.013333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+72,female,no,no,no,Yes,Yes,None,-1.18,-1.15,-0.973333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,Yes,Yes,None,-0.1,-0.18,-0.443333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,None,0.07,-0.06,-0.116666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,Quit,0.36,-0.93,0.073333333,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+74,male,no,no,no,No,Yes,Quit,-0.48,-1.66,-0.986666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+66,male,no,no,no,Yes,No,Smoker,0.2,-0.07,-0.153333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,yes,yes,no,Yes,Yes,Quit,-2.08,-2.263333333,-1.72,Present,Present,2,2 to 3,Neuroimaging Study,3,5,3 to 5
+52,female,no,no,no,No,Yes,None,0.48,1.78,1.093333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+81,female,no,no,no,Yes,No,None,-1.81,-2,-1.36625,Present,Present,2,2 to 3,Neuroimaging Study,3,4,1 to 2
+65,male,yes,yes,no,No,Yes,None,-0.32,1.03,0.013333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,female,,yes,no,Yes,Yes,None,-1.406871534,-0.664402047,-1.167745103,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,No,Yes,None,-0.37,-0.44,-0.62,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+81,female,yes,yes,no,Yes,Yes,Smoker,-1.946666667,-1.686666667,-1.357,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+69,female,no,no,yes,Yes,Yes,None,0.55,0.46,0.063333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,Yes,None,-0.03,0.06,-0.263333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,No,None,0.27,0.55,0.286666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+68,male,no,no,no,Yes,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+58,female,no,no,no,Yes,Yes,None,0.27,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,yes,Yes,Yes,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+78,female,no,no,no,Yes,Yes,None,-0.34,-0.99,-0.486666667,Present,Absent,3,2 to 3,Geriatric Population Study,,,3 to 5
+58,female,no,no,no,No,No,Smoker,-0.808166867,-0.5528772,-0.562870446,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,no,no,no,No,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,female,no,no,no,Yes,No,None,-0.508991055,-0.241996661,-0.472156283,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,female,no,no,no,Yes,Yes,Smoker,-0.73,-0.2243047,-0.31629141,Absent,Absent,1,0 to 1,Neuroimaging Study,0,1,Zero
+58,female,no,no,no,No,Yes,None,0.28,0.92,0.44,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+63,male,no,no,no,Yes,Yes,Quit,0.33,0.46,0.4,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,female,no,no,yes,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+70,male,no,no,no,No,Yes,Quit,0.34,-0.15,0.196666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,No,Quit,0.623648071,1.09897512,0.932507445,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+75,female,no,no,no,Yes,Yes,None,-0.4,-0.74,-0.73,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,No,None,-0.529372765,-1.18289164,-1.097590159,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+73,male,no,no,no,Yes,Yes,Quit,-0.93,-0.44,-0.59,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,female,no,no,no,No,Yes,None,0.29,-0.15,-0.1,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+67,female,no,no,no,Yes,No,None,0.207336483,0.412323388,0.435097057,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+74,male,no,no,no,Yes,Yes,None,0.25,-0.92,0.166666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,Yes,Quit,-0.52,0.26,-0.03,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+68,female,no,no,no,Yes,Yes,None,-0.16,0.55,0.086666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,Yes,Yes,Quit,0.943653993,0.584340849,0.946311331,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+65,male,no,no,yes,Yes,Yes,Quit,0.186228443,-0.605145215,-0.229855486,Present,Present,2,2 to 3,Cerebrovascular Study,3,5,3 to 5
+45,male,no,no,no,Yes,No,Smoker,-0.186666667,-1.3,-0.599,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+76,male,no,no,yes,Yes,No,Quit,-0.62,-1.84,-0.973333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+74,male,no,no,no,Yes,Yes,Quit,-0.32,-0.52,-0.246666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+77,male,no,no,no,Yes,No,Quit,,,,Absent,Present,3,2 to 3,Cerebrovascular Study,2,4,Zero
+60,female,no,no,yes,Yes,Yes,Smoker,0.08,0.37,0.44,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,No,Quit,-0.05,0.31,0.093333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,No,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+75,male,no,no,no,Yes,Yes,None,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,4,3 to 5
+64,female,no,no,no,Yes,Yes,Quit,0.1,0.64,0.276666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+67,female,no,no,yes,Yes,No,None,-0.85,-0.79,-0.87,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,Yes,Smoker,-0.17,-0.73,-0.483333333,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+67,male,no,no,no,Yes,Yes,None,-1.22,-1.11,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+56,female,no,no,no,No,Yes,None,0.5,0.63,0.283333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+71,female,no,no,no,Yes,Yes,None,-1.52,,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+83,female,no,no,no,No,No,None,-0.17,-1.13,-0.703333333,Present,Absent,1,0 to 1,ASPS Family Study,1,1,1 to 2
+75,female,no,no,no,Yes,Yes,None,-0.72,-0.52,-0.47,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,female,no,no,no,Yes,Yes,None,-0.42,-0.82,-0.526666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+72,female,no,no,no,Yes,No,None,-0.43,-0.54,-0.34,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+66,male,no,no,no,Yes,Yes,Quit,0.28,-0.22,-0.023333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+63,female,no,no,no,Yes,Yes,Quit,0.12,-0.45,0.126666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+74,female,no,no,no,Yes,Yes,None,-0.86,-0.92,-1.07,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,No,Yes,Quit,-1.976666667,-0.963333333,-0.981,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+66,female,no,no,no,Yes,Yes,None,0.56,0.68,0.216666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+59,female,no,no,no,No,Yes,None,-0.61,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+79,male,no,no,no,Yes,Yes,Smoker,0.34,0.39,0.15,Present,Absent,2,2 to 3,Geriatric Population Study,,,1 to 2
+71,female,no,no,no,Yes,Yes,None,-1.160432864,-1.052007627,-1.175332004,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,female,no,no,yes,Yes,Yes,None,-0.16,0.54,0.133333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+56,male,no,no,yes,No,Yes,Quit,-0.122274876,-0.147174234,-0.538763416,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+78,male,,yes,no,Yes,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,female,no,no,yes,Yes,No,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+80,female,no,no,yes,Yes,Yes,None,-0.09,-0.76,-0.656666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+58,male,no,no,no,Yes,No,Quit,0.031370734,0.136988014,0.303359333,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+52,male,no,no,no,No,No,None,0.459721447,1.072137716,0.87611199,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+55,male,no,no,no,No,No,None,-0.402299043,0.415785089,0.023138817,Absent,Absent,0,0 to 1,Cerebrovascular Study,0,0,Zero
+54,female,no,no,no,No,No,Quit,,,,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+57,female,no,no,no,No,Yes,None,0.91,0.2,0.656666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,no,No,Yes,None,0.31,0.34,0.123333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,male,no,no,no,Yes,Yes,Quit,-0.438083766,0.459339068,-0.004455588,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,no,no,no,Yes,Yes,Smoker,,,,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+66,male,no,no,no,No,Yes,None,0.87,0.23,0.22,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+76,male,,yes,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+53,male,no,no,no,Yes,Yes,None,0.84,0.51,0.763333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+75,male,no,no,no,Yes,Yes,None,0.7,-0.33,0.616666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,Smoker,,,,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+67,female,no,no,no,Yes,Yes,None,-1.75,-0.59,-0.893,Absent,Absent,2,2 to 3,Neuroimaging Study,1,2,Zero
+58,male,no,no,no,Yes,No,Quit,-2.12,-0.24,-0.55,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+72,male,no,no,yes,No,Yes,Smoker,-0.29,-0.6,-0.443333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,No,Yes,Quit,-0.45,0.58,-0.103333333,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+61,male,,yes,no,No,No,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,male,no,no,no,Yes,Yes,None,0.49,0.47,0.303333333,Present,Absent,0,0 to 1,Geriatric Population Study,1,1,1 to 2
+76,male,no,no,yes,Yes,Yes,Quit,0.24,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,-0.28,0.41,-0.253333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+62,female,no,no,no,Yes,Yes,None,0.58,0.62,0.28,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,No,Yes,Quit,-0.2,0.24,-0.26,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+70,female,no,no,no,Yes,Yes,None,0.18,0.18,-0.146666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,male,no,no,no,Yes,Yes,None,-1.73,0.27,-0.556666667,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+56,male,no,no,no,No,No,None,0.316412375,0.690441888,0.080034441,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+72,male,no,no,no,Yes,Yes,Quit,0.135806233,1.071544494,0.614492633,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+66,male,no,no,no,Yes,Yes,Quit,-1.7,0.64,-0.5,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+68,female,no,no,no,Yes,Yes,None,-0.54,,,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,None,0.45,-0.87,-0.08,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+47,female,no,no,no,No,No,None,1.02,1.37,1.49,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,female,no,no,no,No,Yes,None,0.5,-0.3,0.456666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+46,male,no,no,no,No,Yes,Quit,0.1,1.66,0.67,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,no,No,No,None,0.55,0.78,0.63,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+54,male,no,no,no,No,Yes,Quit,0.5,0.43,0.293333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+77,female,no,no,no,Yes,Yes,None,-0.08,-0.69,-0.35,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+66,female,no,no,no,No,No,Quit,-2.52,-2.585438767,-1.98063163,Present,Present,3,2 to 3,Neuroimaging Study,3,6,3 to 5
+79,female,no,no,no,Yes,Yes,None,0.25,0.18,0.3,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+69,male,no,no,no,No,Yes,Smoker,0.76,-0.57,0.683333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+79,female,no,no,no,Yes,Yes,Quit,-0.45,-0.61,-0.067,Present,Absent,3,2 to 3,Neuroimaging Study,2,5,3 to 5
+60,female,no,no,no,Yes,No,None,-0.08,0.74,0.12,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,no,No,No,None,,,,Absent,Present,0,0 to 1,Cerebrovascular Study,1,1,Zero
+62,female,no,no,no,Yes,Yes,None,0.28,0.22,-0.08,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+70,female,no,no,no,Yes,Yes,None,-0.993333333,-0.488238567,-0.67247157,Present,Present,2,2 to 3,Neuroimaging Study,3,6,>5
+81,male,no,no,no,Yes,Yes,Quit,,,,Present,Present,1,0 to 1,Cerebrovascular Study,2,3,1 to 2
+74,male,yes,yes,yes,Yes,Yes,Quit,,,,Present,Absent,3,2 to 3,Cerebrovascular Study,2,4,1 to 2
+55,male,no,no,no,No,No,Smoker,-0.463749298,-0.609251112,-0.470041106,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+51,female,no,no,no,No,Yes,None,0.43,0.54,0.74,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,Quit,-0.31,0.36,-0.043333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+45,male,no,no,no,No,Yes,None,1.01,1.14,1.083333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+53,female,no,no,no,No,Yes,Quit,0.26,0.54,0.503333333,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+56,male,no,no,no,No,No,None,0.395808204,0.436916642,0.103788519,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+64,female,no,no,no,Yes,Yes,Smoker,-0.373217317,-0.559636425,-0.385187202,Present,Absent,1,0 to 1,Cerebrovascular Study,1,3,3 to 5
+70,male,no,no,no,Yes,No,None,0.03,-0.95,-0.503333333,Present,Absent,2,2 to 3,Geriatric Population Study,,,3 to 5
+71,female,no,no,no,No,Yes,Smoker,0.39,0.18,0.076666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+75,female,yes,yes,no,Yes,Yes,None,0.04,-0.76,-0.513333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+70,female,no,no,no,No,Yes,None,0.5,0.4,0.18,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,-1.33,-0.95,-1.19,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+54,female,no,no,no,Yes,Yes,None,-1.501492431,-0.750916297,-1.339946011,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,male,no,no,no,No,Yes,Quit,0.44,0.16,0.336666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+79,male,no,no,no,No,Yes,Smoker,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+61,female,no,no,no,No,Yes,None,,,,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,no,no,no,Yes,Yes,None,-1.006666667,-1.16,-1.024,Present,Absent,3,2 to 3,Neuroimaging Study,2,6,>5
+77,male,no,no,yes,Yes,Yes,Quit,-1.502543677,-1.620839534,-1.576649898,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+56,female,no,no,no,Yes,Yes,None,0.37,1.35,1.04,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+52,female,no,no,no,No,Yes,Quit,0.82,0.06,0.45,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+59,female,no,no,no,Yes,Yes,None,-0.11,1.68,0.276666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+57,male,no,no,no,Yes,No,Quit,-2.026666667,0.406666667,-0.476,Present,Present,1,0 to 1,Neuroimaging Study,2,3,1 to 2
+72,male,no,no,no,Yes,Yes,None,0.09,0.72,0.176666667,Present,Present,3,2 to 3,Geriatric Population Study,3,4,1 to 2
+52,male,no,no,no,Yes,Yes,None,0.16,0.31,0.833333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+48,male,no,no,no,No,Yes,Quit,0.98,0.92,0.973333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+66,female,no,no,no,No,Yes,None,0.64,0.38,0.323333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+76,male,no,no,no,Yes,No,Quit,0.295997639,0.529696678,0.245942597,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+59,female,no,no,no,Yes,No,None,0.68,,,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+78,female,no,no,no,No,Yes,Quit,0.25,-1.03,0.31,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+77,male,no,no,no,Yes,Yes,Quit,-0.13,-0.67,-0.463333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+64,female,no,no,no,Yes,No,None,-0.91,-0.2,-0.54,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,male,no,no,no,Yes,Yes,Quit,0.46,-0.13,0.043333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+67,male,no,no,yes,Yes,Yes,Quit,0.3,0.13,0.563333333,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+55,male,no,no,no,Yes,Yes,Smoker,0.926666667,-0.743333333,0.488,Present,Present,2,2 to 3,Neuroimaging Study,3,4,1 to 2
+59,male,no,no,no,Yes,No,None,0.35,1.12,0.906666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+53,female,no,no,no,No,Yes,None,0.88,1.01,0.816666667,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+76,male,no,no,no,Yes,Yes,None,0.03,-2.06,-0.596666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+64,female,no,no,no,Yes,No,Quit,-0.114686855,0.481858562,0.267955922,Absent,Absent,3,2 to 3,Cerebrovascular Study,1,3,Zero
+49,male,no,no,no,No,No,None,1.58,1.32,1.616666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+80,female,no,no,no,Yes,No,Quit,-0.56,,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+54,female,no,no,no,No,No,Quit,-0.677034267,-0.866027131,-0.483186422,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+59,female,no,no,no,No,Yes,Smoker,0.29,0.1,0.296666667,Absent,Absent,3,2 to 3,ASPS Family Study,1,2,Zero
+74,male,no,no,no,Yes,Yes,None,-1.44,-1.52,-0.922,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+63,female,no,no,no,Yes,Yes,None,0.46,0.37,0.896666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+63,female,no,no,no,Yes,Yes,Smoker,-0.48162723,-0.844159312,-0.43201678,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+50,female,no,no,no,No,Yes,Quit,0.89,0.7,0.426666667,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+76,female,no,no,no,Yes,Yes,None,0.47,-0.45,-0.136666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+78,male,no,no,no,Yes,Yes,Quit,-0.54,-0.33,-0.206666667,Present,Absent,1,0 to 1,Geriatric Population Study,1,1,1 to 2
+52,female,no,no,no,Yes,Yes,None,0.32,0.52,0.416666667,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+80,male,yes,yes,no,Yes,Yes,Quit,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,5,1 to 2
+60,female,no,no,no,No,Yes,None,-0.44,1.08,-0.083333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+60,male,no,no,yes,No,No,Quit,0.35,0.39,0.253333333,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+73,female,no,no,no,Yes,No,Quit,-0.172039531,-1.503296595,-1.185943349,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+60,male,no,no,no,Yes,Yes,Quit,0.081835449,-0.446195332,0.20419579,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+45,female,no,no,no,No,Yes,None,-0.42,-0.52,-0.33,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,Yes,Smoker,0.45,0.61,0.666666667,Present,Absent,3,2 to 3,Geriatric Population Study,,,>5
+74,male,no,no,no,Yes,Yes,Quit,-0.72,0.13,-0.53,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+69,female,no,no,no,Yes,No,Quit,0.190454526,-0.366305671,-0.075849299,Present,Present,2,2 to 3,Cerebrovascular Study,3,4,1 to 2
+55,female,no,no,no,No,Yes,Quit,0.42,1.95,1.066666667,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+71,male,no,no,no,Yes,Yes,None,0.09,-1.2,-0.36,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+60,female,no,no,no,No,No,Quit,-0.42,0.38,-0.386666667,Present,Absent,0,0 to 1,Geriatric Population Study,,,3 to 5
+51,female,no,no,no,No,No,None,1.046340133,0.437310518,0.609784954,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+54,female,no,no,no,No,Yes,None,0.94,0.52,0.723333333,Absent,Absent,0,0 to 1,Geriatric Population Study,0,0,Zero
+68,male,no,no,no,No,Yes,Quit,0.21,0.08,0.03,Absent,Present,1,0 to 1,Geriatric Population Study,1,1,Zero
+59,male,no,no,yes,Yes,Yes,Quit,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+78,female,no,no,no,Yes,Yes,Quit,0.1,-0.08,-0.01,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+76,male,yes,yes,no,Yes,Yes,Smoker,,-2.136271233,-1.301101713,Present,Absent,2,2 to 3,Neuroimaging Study,2,4,3 to 5
+61,male,no,no,yes,Yes,Yes,Quit,0.08,-0.83,-0.14,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+59,female,no,no,no,Yes,Yes,None,-0.34,0.76,0.276666667,Present,Present,1,0 to 1,Geriatric Population Study,2,2,1 to 2
+79,female,no,no,no,Yes,Yes,None,-0.19,-0.88,-0.526666667,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+61,female,no,no,no,Yes,Yes,None,0.32,0.35,-0.006666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+70,male,no,no,no,Yes,No,Quit,,,,Absent,Present,1,0 to 1,ASPS Family Study,1,1,Zero
+60,female,no,no,no,No,Yes,None,0.35,0.36,0.703333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,None,0.07,-0.09,3.47E-18,Absent,Absent,1,0 to 1,Geriatric Population Study,0,0,Zero
+71,male,no,no,no,No,Yes,Quit,0.37,0.82,0.533333333,Absent,Absent,2,2 to 3,Geriatric Population Study,1,1,Zero
+73,female,no,no,no,Yes,Yes,None,-0.21,-0.22,-0.146666667,Absent,Absent,2,2 to 3,ASPS Family Study,1,1,Zero
+66,male,no,no,no,No,No,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+71,female,no,no,no,Yes,Yes,None,0.1,-0.22,0.146666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+73,male,no,no,no,Yes,No,Quit,-0.380346415,-0.281123681,-0.460346718,Present,Absent,2,2 to 3,Cerebrovascular Study,2,3,1 to 2
+73,male,yes,yes,no,No,Yes,None,-2.616666667,,-2.42,Present,Present,3,2 to 3,Neuroimaging Study,3,7,>5
+62,male,no,no,no,Yes,Yes,None,0.28,-0.36,-0.196666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,male,no,no,no,Yes,No,Quit,-0.31,-0.37,,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+53,male,no,no,no,No,Yes,Smoker,0.68,1.17,1.34,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+72,female,no,no,no,Yes,Yes,None,0.69,-0.55,0.233333333,Absent,Absent,2,2 to 3,Geriatric Population Study,,,Zero
+47,female,no,no,no,No,Yes,None,0.38,-0.32,0.4,Present,Present,2,2 to 3,ASPS Family Study,3,3,1 to 2
+73,female,no,no,no,Yes,Yes,None,,,,Present,Absent,1,0 to 1,Cerebrovascular Study,1,2,1 to 2
+53,male,no,no,yes,Yes,Yes,None,-0.070111553,-0.400057969,-0.384806789,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+48,male,no,no,no,Yes,No,,0.52,1.02,0.88,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+45,male,no,no,no,Yes,Yes,Quit,1.07,1.38,1.853333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+82,female,no,no,no,Yes,Yes,None,-0.45,,,Absent,Absent,3,2 to 3,Geriatric Population Study,,,Zero
+68,male,no,no,no,Yes,Yes,Quit,-1.58,-0.65,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+73,male,no,no,no,Yes,Yes,Smoker,,,,Present,Present,3,2 to 3,Cerebrovascular Study,3,6,3 to 5
+65,male,no,no,no,Yes,Yes,Smoker,-1.843333333,-0.505,-1.25125,Present,Absent,1,0 to 1,Neuroimaging Study,1,2,1 to 2
+58,female,no,no,no,Yes,Yes,None,-1.24,1.59,0.073333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,Smoker,0.71,-0.49,0.283333333,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+71,female,no,no,no,Yes,Yes,None,0.45,-0.24,0.256666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,No,Yes,Quit,1.243333333,0.4,0.63625,Present,Absent,2,2 to 3,Neuroimaging Study,2,3,1 to 2
+70,female,,yes,no,Yes,Yes,None,,,,Absent,Absent,2,2 to 3,Cerebrovascular Study,1,2,Zero
+80,male,no,no,no,Yes,No,Quit,-0.174624596,0.093668914,-0.013300138,Present,Absent,3,2 to 3,Cerebrovascular Study,2,5,3 to 5
+74,female,no,no,no,Yes,Yes,None,-0.85,-1.51,-1.16,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+65,male,no,no,no,Yes,Yes,None,-0.28,-0.68,-0.846666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+62,female,no,no,yes,Yes,Yes,None,,,,Absent,Absent,1,0 to 1,Cerebrovascular Study,0,1,Zero
+87,male,yes,yes,no,Yes,Yes,Quit,-1.16,,,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+65,female,no,no,no,Yes,Yes,None,-0.33,0.29,-0.173333333,Absent,Absent,1,0 to 1,ASPS Family Study,0,0,Zero
+70,male,no,no,no,Yes,Yes,,0.67,-0.06,0.393333333,Absent,Absent,0,0 to 1,ASPS Family Study,0,0,Zero
+62,female,no,no,no,Yes,Yes,None,0.099694287,-0.002292025,-0.399585838,Absent,Present,1,0 to 1,Cerebrovascular Study,1,2,Zero
+64,male,no,no,no,Yes,Yes,Smoker,0.2,-1.04,-0.503333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
+65,female,no,no,no,Yes,Yes,None,-0.07,-0.24,-0.196666667,Absent,Absent,1,0 to 1,Geriatric Population Study,,,Zero
+67,male,no,no,no,Yes,Yes,Quit,0.72,0.61,1.393333333,Absent,Absent,0,0 to 1,Geriatric Population Study,,,Zero
