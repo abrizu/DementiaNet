@@ -1,7 +1,7 @@
 # Predicting the Onset of Dementia Using Neural Networks
 ### A Deep Learning Approach to Neuroimaging and Multimodal Analysis
 
-Research: *docs\Predicting_the_Onset_of_Dementia_Using_Neural_Networks.pdf*
+Research: *https://github.com/abrizu/480-NN-Project-MRI/blob/mri/docs/Predicting_the_Onset_of_Dementia_Using_Neural_Networks.pdf*
 
 ---
 
